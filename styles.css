@@ -19,7 +19,7 @@ h2 {
 .picker {
   margin: 40px;
   padding: 15px;
-  background-image: url("images/background_pic.jpg");
+  background-image: url("images/background_pic.png");
   background-size: cover;      /* makes it cover the whole page */
   background-repeat: no-repeat; /* prevents repeating */
   background-position: center;  /* keeps it centered */
@@ -113,4 +113,5 @@ button:hover {
 }
 
 .hidden { display: none; }
+
 

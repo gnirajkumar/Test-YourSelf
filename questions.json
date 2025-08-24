@@ -4,7 +4,7 @@
       "DOMESTIC_ANIMALS": [
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cow.PNG",
+          "questionImage": "images/cow.png",
           "options": [
             {
               "text": "Goat",
@@ -39838,4 +39838,5 @@
   }
 
 }
+
 

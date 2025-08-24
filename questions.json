@@ -4,7 +4,7 @@
       "DOMESTIC_ANIMALS": [
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cow.png",
+          "questionImage": "images/cow.jpg",
           "options": [
             {
               "text": "Goat",
@@ -29,7 +29,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/goat.png",
+          "questionImage": "images/goat.jpg",
           "options": [
             {
               "text": "Sheep",
@@ -54,7 +54,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/sheep.png",
+          "questionImage": "images/sheep.jpg",
           "options": [
             {
               "text": "Sheep",
@@ -79,7 +79,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/dog.png",
+          "questionImage": "images/dog.jpg",
           "options": [
             {
               "text": "Jackal",
@@ -104,7 +104,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cat.png",
+          "questionImage": "images/cat.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -129,7 +129,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/horse.png",
+          "questionImage": "images/horse.jpg",
           "options": [
             {
               "text": "Donkey",
@@ -154,7 +154,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/donkey.png",
+          "questionImage": "images/donkey.jpg",
           "options": [
             {
               "text": "Mule",
@@ -179,7 +179,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/camel.png",
+          "questionImage": "images/camel.jpg",
           "options": [
             {
               "text": "Horse",
@@ -204,7 +204,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/pig.png",
+          "questionImage": "images/pig.jpg",
           "options": [
             {
               "text": "Goat",
@@ -229,7 +229,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/hen.png",
+          "questionImage": "images/hen.jpg",
           "options": [
             {
               "text": "Duck",
@@ -254,7 +254,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/duck.png",
+          "questionImage": "images/duck.jpg",
           "options": [
             {
               "text": "Goose",
@@ -279,7 +279,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/turkey.png",
+          "questionImage": "images/turkey.jpg",
           "options": [
             {
               "text": "Goose",
@@ -304,7 +304,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/goose.png",
+          "questionImage": "images/goose.jpg",
           "options": [
             {
               "text": "Hen",
@@ -329,7 +329,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/pigeon.png",
+          "questionImage": "images/pigeon.jpg",
           "options": [
             {
               "text": "Sparrow",
@@ -354,7 +354,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/rabbit.png",
+          "questionImage": "images/rabbit.jpg",
           "options": [
             {
               "text": "Mouse",
@@ -379,7 +379,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/parrot.png",
+          "questionImage": "images/parrot.jpg",
           "options": [
             {
               "text": "Pigeon",
@@ -404,7 +404,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/mule.png",
+          "questionImage": "images/mule.jpg",
           "options": [
             {
               "text": "Camel",
@@ -429,7 +429,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/buffalo.png",
+          "questionImage": "images/buffalo.jpg",
           "options": [
             {
               "text": "Cow",
@@ -454,7 +454,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/ox.png",
+          "questionImage": "images/ox.jpg",
           "options": [
             {
               "text": "Cow",
@@ -479,7 +479,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/yak.png",
+          "questionImage": "images/yak.jpg",
           "options": [
             {
               "text": "Sheep",
@@ -506,7 +506,7 @@
       "FLOWERS": [
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/rose.png",
+          "questionImage": "images/rose.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -531,7 +531,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/sunflower.png",
+          "questionImage": "images/sunflower.jpg",
           "options": [
             {
               "text": "Rose",
@@ -556,7 +556,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/lotus.png",
+          "questionImage": "images/lotus.jpg",
           "options": [
             {
               "text": "Jasmine",
@@ -581,7 +581,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/marigold.png",
+          "questionImage": "images/marigold.jpg",
           "options": [
             {
               "text": "Rose",
@@ -606,7 +606,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/jasmine.png",
+          "questionImage": "images/jasmine.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -631,7 +631,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/tulip.png",
+          "questionImage": "images/tulip.jpg",
           "options": [
             {
               "text": "Hibiscus",
@@ -656,7 +656,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/hibiscus.png",
+          "questionImage": "images/hibiscus.jpg",
           "options": [
             {
               "text": "Marigold",
@@ -681,7 +681,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/daisy.png",
+          "questionImage": "images/daisy.jpg",
           "options": [
             {
               "text": "Tulip",
@@ -706,7 +706,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/lily.png",
+          "questionImage": "images/lily.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -731,7 +731,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/orchid.png",
+          "questionImage": "images/orchid.jpg",
           "options": [
             {
               "text": "Daisy",
@@ -756,7 +756,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/lavender.png",
+          "questionImage": "images/lavender.jpg",
           "options": [
             {
               "text": "Rose",
@@ -781,7 +781,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/chrysanthemum.png",
+          "questionImage": "images/chrysanthemum.jpg",
           "options": [
             {
               "text": "Tulip",
@@ -806,7 +806,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/daffodil.png",
+          "questionImage": "images/daffodil.jpg",
           "options": [
             {
               "text": "Orchid",
@@ -831,7 +831,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/poppy.png",
+          "questionImage": "images/poppy.jpg",
           "options": [
             {
               "text": "Jasmine",
@@ -856,7 +856,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/carnation.png",
+          "questionImage": "images/carnation.jpg",
           "options": [
             {
               "text": "Orchid",
@@ -881,7 +881,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/peony.png",
+          "questionImage": "images/peony.jpg",
           "options": [
             {
               "text": "Daisy",
@@ -906,7 +906,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/magnolia.png",
+          "questionImage": "images/magnolia.jpg",
           "options": [
             {
               "text": "Jasmine",
@@ -931,7 +931,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/bluebell.png",
+          "questionImage": "images/bluebell.jpg",
           "options": [
             {
               "text": "Rose",
@@ -956,7 +956,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/gladiolus.png",
+          "questionImage": "images/gladiolus.jpg",
           "options": [
             {
               "text": "Hibiscus",
@@ -981,7 +981,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/petunia.png",
+          "questionImage": "images/petunia.jpg",
           "options": [
             {
               "text": "Daisy",
@@ -1006,7 +1006,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/zinnia.png",
+          "questionImage": "images/zinnia.jpg",
           "options": [
             {
               "text": "Orchid",
@@ -1033,7 +1033,7 @@
       "PLANTS": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "images/mango_plant.png",
+          "questionImage": "images/mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -1058,7 +1058,7 @@
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "images/banana_plant.png",
+          "questionImage": "images/banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -1083,7 +1083,7 @@
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "images/rose_plant.png",
+          "questionImage": "images/rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -1108,7 +1108,7 @@
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "images/tulsi_plant.png",
+          "questionImage": "images/tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -1133,7 +1133,7 @@
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "images/neem_plant.png",
+          "questionImage": "images/neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -1158,7 +1158,7 @@
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "images/coconut_plant.png",
+          "questionImage": "images/coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -1183,7 +1183,7 @@
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "images/peepal_plant.png",
+          "questionImage": "images/peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -1208,7 +1208,7 @@
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "images/banyan_plant.png",
+          "questionImage": "images/banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -1233,7 +1233,7 @@
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "images/lemon_plant.png",
+          "questionImage": "images/lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -1258,7 +1258,7 @@
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "images/papaya_plant.png",
+          "questionImage": "images/papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -1283,7 +1283,7 @@
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "images/cactus_plant.png",
+          "questionImage": "images/cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -1310,7 +1310,7 @@
       "REPTILES": [
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/crocodile.png",
+          "questionImage": "images/crocodile.jpg",
           "options": [
             {
               "text": "Turtle",
@@ -1335,7 +1335,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/alligator.png",
+          "questionImage": "images/alligator.jpg",
           "options": [
             {
               "text": "Crocodile",
@@ -1360,7 +1360,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/lizard.png",
+          "questionImage": "images/lizard.jpg",
           "options": [
             {
               "text": "Chameleon",
@@ -1385,7 +1385,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/snake.png",
+          "questionImage": "images/snake.jpg",
           "options": [
             {
               "text": "Earthworm",
@@ -1410,7 +1410,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/turtle.png",
+          "questionImage": "images/turtle.jpg",
           "options": [
             {
               "text": "Turtle",
@@ -1435,7 +1435,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/tortoise.png",
+          "questionImage": "images/tortoise.jpg",
           "options": [
             {
               "text": "Tortoise",
@@ -1460,7 +1460,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/chameleon.png",
+          "questionImage": "images/chameleon.jpg",
           "options": [
             {
               "text": "Snake",
@@ -1485,7 +1485,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/iguana.png",
+          "questionImage": "images/iguana.jpg",
           "options": [
             {
               "text": "Lizard",
@@ -1510,7 +1510,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/king cobra.png",
+          "questionImage": "images/king cobra.jpg",
           "options": [
             {
               "text": "Python",
@@ -1535,7 +1535,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/python.png",
+          "questionImage": "images/python.jpg",
           "options": [
             {
               "text": "Anaconda",
@@ -1560,7 +1560,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/anaconda.png",
+          "questionImage": "images/anaconda.jpg",
           "options": [
             {
               "text": "Viper",
@@ -1587,7 +1587,7 @@
       "WILD_ANIMALS": [
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/lion.png",
+          "questionImage": "images/lion.jpg",
           "options": [
             {
               "text": "Lion",
@@ -1612,7 +1612,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/tiger.png",
+          "questionImage": "images/tiger.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -1637,7 +1637,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/elephant.png",
+          "questionImage": "images/elephant.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -1662,7 +1662,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/bear.png",
+          "questionImage": "images/bear.jpg",
           "options": [
             {
               "text": "Lion",
@@ -1687,7 +1687,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/leopard.png",
+          "questionImage": "images/leopard.jpg",
           "options": [
             {
               "text": "Giraffe",
@@ -1712,7 +1712,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/zebra.png",
+          "questionImage": "images/zebra.jpg",
           "options": [
             {
               "text": "Zebra",
@@ -1737,7 +1737,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/giraffe.png",
+          "questionImage": "images/giraffe.jpg",
           "options": [
             {
               "text": "Giraffe",
@@ -1762,7 +1762,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/rhinoceros.png",
+          "questionImage": "images/rhinoceros.jpg",
           "options": [
             {
               "text": "Hippopotamus",
@@ -1787,7 +1787,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/hippopotamus.png",
+          "questionImage": "images/hippopotamus.jpg",
           "options": [
             {
               "text": "Elephant",
@@ -1812,7 +1812,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/wolf.png",
+          "questionImage": "images/wolf.jpg",
           "options": [
             {
               "text": "Coyote",
@@ -1837,7 +1837,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/fox.png",
+          "questionImage": "images/fox.jpg",
           "options": [
             {
               "text": "Wolf",
@@ -1862,7 +1862,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cheetah.png",
+          "questionImage": "images/cheetah.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -1887,7 +1887,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/kangaroo.png",
+          "questionImage": "images/kangaroo.jpg",
           "options": [
             {
               "text": "Camel",
@@ -1912,7 +1912,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/panda.png",
+          "questionImage": "images/panda.jpg",
           "options": [
             {
               "text": "Bear",
@@ -1937,7 +1937,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/koala.png",
+          "questionImage": "images/koala.jpg",
           "options": [
             {
               "text": "Sloth",
@@ -1962,7 +1962,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/crocodile.png",
+          "questionImage": "images/crocodile.jpg",
           "options": [
             {
               "text": "Crocodile",
@@ -1987,7 +1987,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/alligator.png",
+          "questionImage": "images/alligator.jpg",
           "options": [
             {
               "text": "Alligator",
@@ -2012,7 +2012,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/camel.png",
+          "questionImage": "images/camel.jpg",
           "options": [
             {
               "text": "Giraffe",
@@ -2037,7 +2037,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/deer.png",
+          "questionImage": "images/deer.jpg",
           "options": [
             {
               "text": "Reindeer",
@@ -2062,7 +2062,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/monkey.png",
+          "questionImage": "images/monkey.jpg",
           "options": [
             {
               "text": "Chimpanzee",
@@ -2087,7 +2087,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/gorilla.png",
+          "questionImage": "images/gorilla.jpg",
           "options": [
             {
               "text": "Gorilla",
@@ -2112,7 +2112,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/hyena.png",
+          "questionImage": "images/hyena.jpg",
           "options": [
             {
               "text": "Dog",
@@ -2137,7 +2137,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/jackal.png",
+          "questionImage": "images/jackal.jpg",
           "options": [
             {
               "text": "Fox",
@@ -2162,7 +2162,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/bison.png",
+          "questionImage": "images/bison.jpg",
           "options": [
             {
               "text": "Yak",
@@ -2187,7 +2187,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/yak.png",
+          "questionImage": "images/yak.jpg",
           "options": [
             {
               "text": "Yak",
@@ -3468,7 +3468,7 @@
       "COUNTING": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "images/five_stars.png",
+          "questionImage": "images/five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -3493,7 +3493,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "images/three_apples.png",
+          "questionImage": "images/three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -3518,7 +3518,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "images/six_pencils.png",
+          "questionImage": "images/six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -3543,7 +3543,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "images/seven_oranges.png",
+          "questionImage": "images/seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -3568,7 +3568,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "images/four_bananas.png",
+          "questionImage": "images/four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -3593,7 +3593,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "images/two_books.png",
+          "questionImage": "images/two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -3618,7 +3618,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "images/four_ducks.png",
+          "questionImage": "images/four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -3643,7 +3643,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "images/three_balls.png",
+          "questionImage": "images/three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -3668,7 +3668,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "images/two_cats.png",
+          "questionImage": "images/two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -3693,7 +3693,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "images/three_dogs.png",
+          "questionImage": "images/three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -3718,7 +3718,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "images/five_fishes.png",
+          "questionImage": "images/five_fishes.jpg",
           "options": [
             {
               "text": "4",
@@ -3743,7 +3743,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "images/six_flowers.png",
+          "questionImage": "images/six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -3768,7 +3768,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "images/two_trees.png",
+          "questionImage": "images/two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -3793,7 +3793,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "images/four_chairs.png",
+          "questionImage": "images/four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -3818,7 +3818,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "images/three_tables.png",
+          "questionImage": "images/three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -3843,7 +3843,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "images/five_cars.png",
+          "questionImage": "images/five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -3868,7 +3868,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "images/two_buses.png",
+          "questionImage": "images/two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -3893,7 +3893,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "images/six_birds.png",
+          "questionImage": "images/six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -3918,7 +3918,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "images/three_frogs.png",
+          "questionImage": "images/three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -3943,7 +3943,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "images/five_fingers.png",
+          "questionImage": "images/five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -3968,7 +3968,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "images/seven_stars.png",
+          "questionImage": "images/seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -3993,7 +3993,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "images/five_apples.png",
+          "questionImage": "images/five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -4018,7 +4018,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "images/three_pencils.png",
+          "questionImage": "images/three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -4043,7 +4043,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "images/six_oranges.png",
+          "questionImage": "images/six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -4068,7 +4068,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "images/two_bananas.png",
+          "questionImage": "images/two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -4093,7 +4093,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "images/four_books.png",
+          "questionImage": "images/four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -4118,7 +4118,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "images/three_ducks.png",
+          "questionImage": "images/three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -4143,7 +4143,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "images/five_balls.png",
+          "questionImage": "images/five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -4168,7 +4168,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "images/four_cats.png",
+          "questionImage": "images/four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -4193,7 +4193,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "images/six_dogs.png",
+          "questionImage": "images/six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -4220,7 +4220,7 @@
       "MONEY": [
         {
           "questionText": "1-Identify this coin:",
-          "questionImage": "images/coin1.PNG",
+          "questionImage": "images/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4245,7 +4245,7 @@
         },
         {
           "questionText": "2-Identify this coin:",
-          "questionImage": "images/coin2.PNG",
+          "questionImage": "images/coin2.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4270,7 +4270,7 @@
         },
         {
           "questionText": "3-Identify this coin:",
-          "questionImage": "images/coin5.png",
+          "questionImage": "images/coin5.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4295,7 +4295,7 @@
         },
         {
           "questionText": "4-Identify this coin:",
-          "questionImage": "images/coin10.png",
+          "questionImage": "images/coin10.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4420,7 +4420,7 @@
         },
         {
           "questionText": "9-Identify this coin:",
-          "questionImage": "images/coin1.png",
+          "questionImage": "images/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4445,7 +4445,7 @@
         },
         {
           "questionText": "10-Identify this coin:",
-          "questionImage": "images/coin2.png",
+          "questionImage": "images/coin2.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4470,7 +4470,7 @@
         },
         {
           "questionText": "11-Identify this note:",
-          "questionImage": "images/note10.png",
+          "questionImage": "images/note10.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4495,7 +4495,7 @@
         },
         {
           "questionText": "12-Identify this note:",
-          "questionImage": "images/note20.png",
+          "questionImage": "images/note20.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4520,7 +4520,7 @@
         },
         {
           "questionText": "13-Identify this note:",
-          "questionImage": "images/note50.png",
+          "questionImage": "images/note50.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4545,7 +4545,7 @@
         },
         {
           "questionText": "14-Identify this note:",
-          "questionImage": "images/note100.png",
+          "questionImage": "images/note100.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4570,7 +4570,7 @@
         },
         {
           "questionText": "15-Identify this note:",
-          "questionImage": "images/note10.png",
+          "questionImage": "images/note10.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4595,7 +4595,7 @@
         },
         {
           "questionText": "16-Identify this note:",
-          "questionImage": "images/note20.png",
+          "questionImage": "images/note20.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4620,7 +4620,7 @@
         },
         {
           "questionText": "17-You have ₹1 and ₹1. How much money do you have?",
-          "questionImage": "images/coin1.png, IMAGES/coin1.png",
+          "questionImage": "images/coin1.jpg, IMAGES/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4945,7 +4945,7 @@
         },
         {
           "questionText": "30-Identify this note:",
-          "questionImage": "images/note20.png",
+          "questionImage": "images/note20.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4970,7 +4970,7 @@
         },
         {
           "questionText": "31-Identify this note:",
-          "questionImage": "images/note50.png",
+          "questionImage": "images/note50.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4995,7 +4995,7 @@
         },
         {
           "questionText": "32-Identify this note:",
-          "questionImage": "images/note100.png",
+          "questionImage": "images/note100.jpg",
           "options": [
             {
               "text": "₹10",
@@ -5020,7 +5020,7 @@
         },
         {
           "questionText": "33-Identify this note:",
-          "questionImage": "images/note10.png",
+          "questionImage": "images/note10.jpg",
           "options": [
             {
               "text": "₹10",
@@ -5345,7 +5345,7 @@
         },
         {
           "questionText": "46-Identify this coin:",
-          "questionImage": "images/coin1.png",
+          "questionImage": "images/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -5370,7 +5370,7 @@
         },
         {
           "questionText": "47-Identify this coin:",
-          "questionImage": "images/coin2.png",
+          "questionImage": "images/coin2.jpg",
           "options": [
             {
               "text": "₹1",
@@ -5395,7 +5395,7 @@
         },
         {
           "questionText": "48-Identify this coin:",
-          "questionImage": "images/coin5.png",
+          "questionImage": "images/coin5.jpg",
           "options": [
             {
               "text": "₹1",
@@ -5420,7 +5420,7 @@
         },
         {
           "questionText": "49-Identify this coin:",
-          "questionImage": "images/coin10.png",
+          "questionImage": "images/coin10.jpg",
           "options": [
             {
               "text": "₹1",
@@ -5472,7 +5472,7 @@
       "SHAPE & PATTERNS": [
         {
           "questionText": "Q.No.1 Which shape is shown in the picture?",
-          "questionImage": "images/rectangle.png",
+          "questionImage": "images/rectangle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -5497,7 +5497,7 @@
         },
         {
           "questionText": "Q.No.2 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "square",
@@ -5522,7 +5522,7 @@
         },
         {
           "questionText": "Q.No.3 Which shape is shown in the picture?",
-          "questionImage": "images/circle.png",
+          "questionImage": "images/circle.jpg",
           "options": [
             {
               "text": "square",
@@ -5547,7 +5547,7 @@
         },
         {
           "questionText": "Q.No.4 Which shape is shown in the picture?",
-          "questionImage": "images/square.png",
+          "questionImage": "images/square.jpg",
           "options": [
             {
               "text": "square",
@@ -5572,7 +5572,7 @@
         },
         {
           "questionText": "Q.No.5 Which shape is shown in the picture?",
-          "questionImage": "images/circle.png",
+          "questionImage": "images/circle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -5597,7 +5597,7 @@
         },
         {
           "questionText": "Q.No.6 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "triangle",
@@ -5622,7 +5622,7 @@
         },
         {
           "questionText": "Q.No.7 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -5647,7 +5647,7 @@
         },
         {
           "questionText": "Q.No.8 Which shape is shown in the picture?",
-          "questionImage": "images/circle.png",
+          "questionImage": "images/circle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -5672,7 +5672,7 @@
         },
         {
           "questionText": "Q.No.9 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "triangle",
@@ -5697,7 +5697,7 @@
         },
         {
           "questionText": "Q.No.10 Which shape is shown in the picture?",
-          "questionImage": "images/square.png",
+          "questionImage": "images/square.jpg",
           "options": [
             {
               "text": "square",
@@ -5722,7 +5722,7 @@
         },
         {
           "questionText": "Q.No.11 Which shape is shown in the picture?",
-          "questionImage": "images/circle.png",
+          "questionImage": "images/circle.jpg",
           "options": [
             {
               "text": "circle",
@@ -5747,7 +5747,7 @@
         },
         {
           "questionText": "Q.No.12 Which shape is shown in the picture?",
-          "questionImage": "images/circle.png",
+          "questionImage": "images/circle.jpg",
           "options": [
             {
               "text": "circle",
@@ -5772,7 +5772,7 @@
         },
         {
           "questionText": "Q.No.13 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "triangle",
@@ -5797,7 +5797,7 @@
         },
         {
           "questionText": "Q.No.14 Which shape is shown in the picture?",
-          "questionImage": "images/circle.png",
+          "questionImage": "images/circle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -5822,7 +5822,7 @@
         },
         {
           "questionText": "Q.No.15 Which shape is shown in the picture?",
-          "questionImage": "images/rectangle.png",
+          "questionImage": "images/rectangle.jpg",
           "options": [
             {
               "text": "triangle",
@@ -5847,7 +5847,7 @@
         },
         {
           "questionText": "Q.No.16 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "circle",
@@ -5872,7 +5872,7 @@
         },
         {
           "questionText": "Q.No.17 Which shape is shown in the picture?",
-          "questionImage": "images/rectangle.png",
+          "questionImage": "images/rectangle.jpg",
           "options": [
             {
               "text": "square",
@@ -5897,7 +5897,7 @@
         },
         {
           "questionText": "Q.No.18 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "circle",
@@ -5922,7 +5922,7 @@
         },
         {
           "questionText": "Q.No.19 Which shape is shown in the picture?",
-          "questionImage": "images/square.png",
+          "questionImage": "images/square.jpg",
           "options": [
             {
               "text": "triangle",
@@ -5947,7 +5947,7 @@
         },
         {
           "questionText": "Q.No.20 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "square",
@@ -5972,7 +5972,7 @@
         },
         {
           "questionText": "Q.No.21 Which shape is shown in the picture?",
-          "questionImage": "images/square.png",
+          "questionImage": "images/square.jpg",
           "options": [
             {
               "text": "circle",
@@ -5997,7 +5997,7 @@
         },
         {
           "questionText": "Q.No.22 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -6022,7 +6022,7 @@
         },
         {
           "questionText": "Q.No.23 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -6047,7 +6047,7 @@
         },
         {
           "questionText": "Q.No.24 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "circle",
@@ -6072,7 +6072,7 @@
         },
         {
           "questionText": "Q.No.25 Which shape is shown in the picture?",
-          "questionImage": "images/square.png",
+          "questionImage": "images/square.jpg",
           "options": [
             {
               "text": "triangle",
@@ -6097,7 +6097,7 @@
         },
         {
           "questionText": "Q.No.26 Which shape is shown in the picture?",
-          "questionImage": "images/square.png",
+          "questionImage": "images/square.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -6122,7 +6122,7 @@
         },
         {
           "questionText": "Q.No.27 Which shape is shown in the picture?",
-          "questionImage": "images/rectangle.png",
+          "questionImage": "images/rectangle.jpg",
           "options": [
             {
               "text": "triangle",
@@ -6147,7 +6147,7 @@
         },
         {
           "questionText": "Q.No.28 Which shape is shown in the picture?",
-          "questionImage": "images/triangle.png",
+          "questionImage": "images/triangle.jpg",
           "options": [
             {
               "text": "rectangle",
@@ -6172,7 +6172,7 @@
         },
         {
           "questionText": "Q.No.29 Which shape is shown in the picture?",
-          "questionImage": "images/rectangle.png",
+          "questionImage": "images/rectangle.jpg",
           "options": [
             {
               "text": "square",
@@ -6197,23 +6197,23 @@
         },
         {
           "questionText": "Q.No.30 Which shape is shown in the picture?",
-          "questionImage": "images/rectangle.png",
+          "questionImage": "images/rectangle.jpg",
           "options": [
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             }
           ],
           "correct": -1,
@@ -6222,23 +6222,23 @@
         },
         {
           "questionText": "Q.No.31 Complete the pattern: triangle, square, triangle, ?",
-          "questionImage": "images/pattern1.png",
+          "questionImage": "images/pattern1.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6247,23 +6247,23 @@
         },
         {
           "questionText": "Q.No.32 Complete the pattern: triangle, rectangle, triangle, ?",
-          "questionImage": "images/pattern2.png",
+          "questionImage": "images/pattern2.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6272,23 +6272,23 @@
         },
         {
           "questionText": "Q.No.33 Complete the pattern: circle, square, circle, ?",
-          "questionImage": "images/pattern3.png",
+          "questionImage": "images/pattern3.jpg",
           "options": [
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6297,23 +6297,23 @@
         },
         {
           "questionText": "Q.No.34 Complete the pattern: square, circle, square, ?",
-          "questionImage": "images/pattern4.png",
+          "questionImage": "images/pattern4.jpg",
           "options": [
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 1,
@@ -6322,23 +6322,23 @@
         },
         {
           "questionText": "Q.No.35 Complete the pattern: rectangle, circle, rectangle, ?",
-          "questionImage": "images/pattern5.png",
+          "questionImage": "images/pattern5.jpg",
           "options": [
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 1,
@@ -6347,23 +6347,23 @@
         },
         {
           "questionText": "Q.No.36 Complete the pattern: circle, square, circle,  ?",
-          "questionImage": "images/pattern6.png",
+          "questionImage": "images/pattern6.jpg",
           "options": [
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 1,
@@ -6372,23 +6372,23 @@
         },
         {
           "questionText": "Q.No.37 Complete the pattern: square, circle, square, ?",
-          "questionImage": "images/pattern7.png",
+          "questionImage": "images/pattern7.jpg",
           "options": [
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 1,
@@ -6397,23 +6397,23 @@
         },
         {
           "questionText": "Q.No.38 Complete the pattern: square, circle, rectangle, ?",
-          "questionImage": "images/pattern8.png",
+          "questionImage": "images/pattern8.jpg",
           "options": [
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 1,
@@ -6422,23 +6422,23 @@
         },
         {
           "questionText": "Q.No.39 Complete the pattern: circle, circle, circle, ?",
-          "questionImage": "images/pattern9.png",
+          "questionImage": "images/pattern9.jpg",
           "options": [
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6447,23 +6447,23 @@
         },
         {
           "questionText": "Q.No.40 Complete the pattern: square, square, circle, ?",
-          "questionImage": "images/pattern10.png",
+          "questionImage": "images/pattern10.jpg",
           "options": [
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6472,23 +6472,23 @@
         },
         {
           "questionText": "Q.No.41 Complete the pattern: rectangle, rectangle, triangle, ?",
-          "questionImage": "images/pattern11.png",
+          "questionImage": "images/pattern11.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             }
           ],
           "correct": 2,
@@ -6497,23 +6497,23 @@
         },
         {
           "questionText": "Q.No.42 Complete the pattern: triangle, triangle, square,  ?",
-          "questionImage": "images/pattern12.png",
+          "questionImage": "images/pattern12.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6522,23 +6522,23 @@
         },
         {
           "questionText": "Q.No.43 Complete the pattern: triangle, circle, square,  ?",
-          "questionImage": "images/pattern13.png",
+          "questionImage": "images/pattern13.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6547,23 +6547,23 @@
         },
         {
           "questionText": "Q.No.44 Complete the pattern: triangle, square, triangle, ?",
-          "questionImage": "images/pattern14.png",
+          "questionImage": "images/pattern14.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -6572,23 +6572,23 @@
         },
         {
           "questionText": "Q.No.45 Complete the pattern: circle, triangle, circle, ?",
-          "questionImage": "images/pattern15.png",
+          "questionImage": "images/pattern15.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             }
           ],
           "correct": 2,
@@ -6597,23 +6597,23 @@
         },
         {
           "questionText": "Q.No.46 Complete the pattern: triangle, triangle,  triangle, ?",
-          "questionImage": "images/pattern16.png",
+          "questionImage": "images/pattern16.jpg",
           "options": [
             {
               "text": "square",
-              "image": "images/square.png"
+              "image": "images/square.jpg"
             },
             {
               "text": "triangle",
-              "image": "images/triangle.png"
+              "image": "images/triangle.jpg"
             },
             {
               "text": "circle",
-              "image": "images/circle.png"
+              "image": "images/circle.jpg"
             },
             {
               "text": "rectangle",
-              "image": "images/rectangle.png"
+              "image": "images/rectangle.jpg"
             }
           ],
           "correct": 0,
@@ -7880,7 +7880,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -7901,11 +7901,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -7926,11 +7926,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -7951,11 +7951,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -7976,11 +7976,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -8001,11 +8001,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -8026,11 +8026,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -8051,11 +8051,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -8076,11 +8076,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -8101,11 +8101,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -8126,11 +8126,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -8151,7 +8151,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -9411,7 +9411,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -9436,7 +9436,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -9461,7 +9461,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -9486,7 +9486,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -9511,7 +9511,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -9536,7 +9536,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -9561,7 +9561,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -9586,7 +9586,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -9611,7 +9611,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -9636,7 +9636,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -9661,7 +9661,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -9686,7 +9686,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -9711,7 +9711,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -9736,7 +9736,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -9761,7 +9761,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -9786,7 +9786,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -9811,7 +9811,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -9836,7 +9836,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -9861,7 +9861,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -9886,7 +9886,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -9911,7 +9911,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -9936,7 +9936,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -9961,7 +9961,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -9986,7 +9986,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -10011,7 +10011,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -10036,7 +10036,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -10061,7 +10061,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -10086,7 +10086,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -10111,7 +10111,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -10136,7 +10136,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -11419,7 +11419,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -11440,11 +11440,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -11465,11 +11465,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -11490,11 +11490,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -11515,11 +11515,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -11540,11 +11540,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -11565,11 +11565,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -11590,11 +11590,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -11615,11 +11615,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -11640,11 +11640,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -11665,11 +11665,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -11690,7 +11690,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -12950,7 +12950,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -12975,7 +12975,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -13000,7 +13000,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -13025,7 +13025,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -13050,7 +13050,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -13075,7 +13075,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -13100,7 +13100,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -13125,7 +13125,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -13150,7 +13150,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -13175,7 +13175,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -13200,7 +13200,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -13225,7 +13225,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -13250,7 +13250,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -13275,7 +13275,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -13300,7 +13300,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -13325,7 +13325,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -13350,7 +13350,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -13375,7 +13375,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -13400,7 +13400,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -13425,7 +13425,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -13450,7 +13450,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -13475,7 +13475,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -13500,7 +13500,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -13525,7 +13525,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -13550,7 +13550,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -13575,7 +13575,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -13600,7 +13600,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -13625,7 +13625,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -13650,7 +13650,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -13675,7 +13675,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -15068,7 +15068,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -15089,11 +15089,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -15114,11 +15114,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -15139,11 +15139,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -15164,11 +15164,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -15189,11 +15189,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -15214,11 +15214,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -15239,11 +15239,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -15264,11 +15264,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -15289,11 +15289,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -15314,11 +15314,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -15339,7 +15339,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -16599,7 +16599,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -16624,7 +16624,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -16649,7 +16649,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -16674,7 +16674,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -16699,7 +16699,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -16724,7 +16724,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -16749,7 +16749,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -16774,7 +16774,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -16799,7 +16799,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -16824,7 +16824,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -16849,7 +16849,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -16874,7 +16874,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -16899,7 +16899,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -16924,7 +16924,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -16949,7 +16949,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -16974,7 +16974,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -16999,7 +16999,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -17024,7 +17024,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -17049,7 +17049,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -17074,7 +17074,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -17099,7 +17099,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -17124,7 +17124,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -17149,7 +17149,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -17174,7 +17174,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -17199,7 +17199,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -17224,7 +17224,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -17249,7 +17249,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -17274,7 +17274,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -17299,7 +17299,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -17324,7 +17324,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -18607,7 +18607,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -18628,11 +18628,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -18653,11 +18653,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -18678,11 +18678,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -18703,11 +18703,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -18728,11 +18728,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -18753,11 +18753,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -18778,11 +18778,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -18803,11 +18803,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -18828,11 +18828,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -18853,11 +18853,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -18878,7 +18878,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -20138,7 +20138,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -20163,7 +20163,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -20188,7 +20188,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -20213,7 +20213,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -20238,7 +20238,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -20263,7 +20263,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -20288,7 +20288,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -20313,7 +20313,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -20338,7 +20338,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -20363,7 +20363,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -20388,7 +20388,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -20413,7 +20413,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -20438,7 +20438,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -20463,7 +20463,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -20488,7 +20488,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -20513,7 +20513,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -20538,7 +20538,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -20563,7 +20563,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -20588,7 +20588,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -20613,7 +20613,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -20638,7 +20638,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -20663,7 +20663,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -20688,7 +20688,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -20713,7 +20713,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -20738,7 +20738,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -20763,7 +20763,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -20788,7 +20788,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -20813,7 +20813,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -20838,7 +20838,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -20863,7 +20863,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -22146,7 +22146,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -22167,11 +22167,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -22192,11 +22192,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -22217,11 +22217,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -22242,11 +22242,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -22267,11 +22267,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -22292,11 +22292,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -22317,11 +22317,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -22342,11 +22342,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -22367,11 +22367,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -22392,11 +22392,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -22417,7 +22417,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -23677,7 +23677,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -23702,7 +23702,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -23727,7 +23727,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -23752,7 +23752,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -23777,7 +23777,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -23802,7 +23802,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -23827,7 +23827,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -23852,7 +23852,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -23877,7 +23877,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -23902,7 +23902,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -23927,7 +23927,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -23952,7 +23952,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -23977,7 +23977,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -24002,7 +24002,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -24027,7 +24027,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -24052,7 +24052,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -24077,7 +24077,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -24102,7 +24102,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -24127,7 +24127,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -24152,7 +24152,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -24177,7 +24177,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -24202,7 +24202,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -24227,7 +24227,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -24252,7 +24252,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -24277,7 +24277,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -24302,7 +24302,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -24327,7 +24327,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -24352,7 +24352,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -24377,7 +24377,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -24402,7 +24402,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -25685,7 +25685,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -25706,11 +25706,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -25731,11 +25731,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -25756,11 +25756,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -25781,11 +25781,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -25806,11 +25806,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -25831,11 +25831,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -25856,11 +25856,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -25881,11 +25881,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -25906,11 +25906,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -25931,11 +25931,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -25956,7 +25956,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -27216,7 +27216,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -27241,7 +27241,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -27266,7 +27266,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -27291,7 +27291,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -27316,7 +27316,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -27341,7 +27341,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -27366,7 +27366,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -27391,7 +27391,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -27416,7 +27416,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -27441,7 +27441,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -27466,7 +27466,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -27491,7 +27491,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -27516,7 +27516,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -27541,7 +27541,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -27566,7 +27566,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -27591,7 +27591,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -27616,7 +27616,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -27641,7 +27641,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -27666,7 +27666,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -27691,7 +27691,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -27716,7 +27716,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -27741,7 +27741,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -27766,7 +27766,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -27791,7 +27791,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -27816,7 +27816,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -27841,7 +27841,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -27866,7 +27866,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -27891,7 +27891,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -27916,7 +27916,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -27941,7 +27941,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -29224,7 +29224,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -29245,11 +29245,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -29270,11 +29270,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -29295,11 +29295,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -29320,11 +29320,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -29345,11 +29345,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -29370,11 +29370,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -29395,11 +29395,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -29420,11 +29420,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -29445,11 +29445,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -29470,11 +29470,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -29495,7 +29495,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -30755,7 +30755,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -30780,7 +30780,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -30805,7 +30805,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -30830,7 +30830,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -30855,7 +30855,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -30880,7 +30880,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -30905,7 +30905,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -30930,7 +30930,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -30955,7 +30955,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -30980,7 +30980,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -31005,7 +31005,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -31030,7 +31030,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -31055,7 +31055,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -31080,7 +31080,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -31105,7 +31105,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -31130,7 +31130,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -31155,7 +31155,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -31180,7 +31180,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -31205,7 +31205,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -31230,7 +31230,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -31255,7 +31255,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -31280,7 +31280,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -31305,7 +31305,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -31330,7 +31330,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -31355,7 +31355,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -31380,7 +31380,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -31405,7 +31405,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -31430,7 +31430,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -31455,7 +31455,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -31480,7 +31480,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -32763,7 +32763,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -32784,11 +32784,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -32809,11 +32809,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -32834,11 +32834,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -32859,11 +32859,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -32884,11 +32884,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -32909,11 +32909,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -32934,11 +32934,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -32959,11 +32959,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -32984,11 +32984,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -33009,11 +33009,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -33034,7 +33034,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -34294,7 +34294,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -34319,7 +34319,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -34344,7 +34344,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -34369,7 +34369,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -34394,7 +34394,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -34419,7 +34419,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -34444,7 +34444,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -34469,7 +34469,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -34494,7 +34494,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -34519,7 +34519,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -34544,7 +34544,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -34569,7 +34569,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -34594,7 +34594,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -34619,7 +34619,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -34644,7 +34644,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -34669,7 +34669,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -34694,7 +34694,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -34719,7 +34719,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -34744,7 +34744,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -34769,7 +34769,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -34794,7 +34794,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -34819,7 +34819,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -34844,7 +34844,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -34869,7 +34869,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -34894,7 +34894,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -34919,7 +34919,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -34944,7 +34944,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -34969,7 +34969,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -34994,7 +34994,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -35019,7 +35019,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -36302,7 +36302,7 @@
       "Plants": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionImage": "mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -36323,11 +36323,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
+          "explanationImage": "mango_plant.jpg"
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
+          "questionImage": "banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -36348,11 +36348,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
+          "explanationImage": "banana_plant.jpg"
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
+          "questionImage": "rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -36373,11 +36373,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
+          "explanationImage": "rose_plant.jpg"
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
+          "questionImage": "tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -36398,11 +36398,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
+          "explanationImage": "tulsi_plant.jpg"
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
+          "questionImage": "neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -36423,11 +36423,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
+          "explanationImage": "neem_plant.jpg"
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
+          "questionImage": "coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -36448,11 +36448,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationImage": "coconut_plant.jpg"
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionImage": "peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -36473,11 +36473,11 @@
           ],
           "correct": 0,
           "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
+          "explanationImage": "peepal_plant.jpg"
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
+          "questionImage": "banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -36498,11 +36498,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
+          "explanationImage": "banyan_plant.jpg"
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
+          "questionImage": "lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -36523,11 +36523,11 @@
           ],
           "correct": 2,
           "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationImage": "lemon_plant.jpg"
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionImage": "papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -36548,11 +36548,11 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "explanationImage": "papaya_plant.jpg"
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionImage": "cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -36573,7 +36573,7 @@
           ],
           "correct": 3,
           "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "explanationImage": "cactus_plant.jpg"
         }
       ]
     },
@@ -37833,7 +37833,7 @@
       "counting": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "five_stars.png",
+          "questionImage": "five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -37858,7 +37858,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "three_apples.png",
+          "questionImage": "three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -37883,7 +37883,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "six_pencils.png",
+          "questionImage": "six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -37908,7 +37908,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "seven_oranges.png",
+          "questionImage": "seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -37933,7 +37933,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "four_bananas.png",
+          "questionImage": "four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -37958,7 +37958,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "two_books.png",
+          "questionImage": "two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -37983,7 +37983,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "four_ducks.png",
+          "questionImage": "four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -38008,7 +38008,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "three_balls.png",
+          "questionImage": "three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -38033,7 +38033,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "two_cats.png",
+          "questionImage": "two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -38058,7 +38058,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "three_dogs.png",
+          "questionImage": "three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -38083,7 +38083,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "five_fish.png",
+          "questionImage": "five_fish.jpg",
           "options": [
             {
               "text": "4",
@@ -38108,7 +38108,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "six_flowers.png",
+          "questionImage": "six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -38133,7 +38133,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "two_trees.png",
+          "questionImage": "two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -38158,7 +38158,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "four_chairs.png",
+          "questionImage": "four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -38183,7 +38183,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "three_tables.png",
+          "questionImage": "three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -38208,7 +38208,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "five_cars.png",
+          "questionImage": "five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -38233,7 +38233,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "two_buses.png",
+          "questionImage": "two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -38258,7 +38258,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "six_birds.png",
+          "questionImage": "six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -38283,7 +38283,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "three_frogs.png",
+          "questionImage": "three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -38308,7 +38308,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "five_fingers.png",
+          "questionImage": "five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -38333,7 +38333,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "seven_stars.png",
+          "questionImage": "seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -38358,7 +38358,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "five_apples.png",
+          "questionImage": "five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -38383,7 +38383,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "three_pencils.png",
+          "questionImage": "three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -38408,7 +38408,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "six_oranges.png",
+          "questionImage": "six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -38433,7 +38433,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "two_bananas.png",
+          "questionImage": "two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -38458,7 +38458,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "four_books.png",
+          "questionImage": "four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -38483,7 +38483,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "three_ducks.png",
+          "questionImage": "three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -38508,7 +38508,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "five_balls.png",
+          "questionImage": "five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -38533,7 +38533,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "four_cats.png",
+          "questionImage": "four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -38558,7 +38558,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "six_dogs.png",
+          "questionImage": "six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -39836,7 +39836,4 @@
       ]
     }
   }
-
 }
-
-

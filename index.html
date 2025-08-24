@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Page 1: Welcome -->
+  <header>
+    <h1>📘 Welcome to Quiz Website</h1>
+    <h2>DEVELOPED BY ANIRAJ KUMAR PF WALE</h2>
+    <h3>CHECK YOUR KNOWLEDGE</h3>
+    <p>Select Class then Subject and Topic and click to start Quiz button to start the Quiz</p>
+  </header>
+
+  <div class="picker">
+    
+    <label for="classSelect">Class:</label>
+    <select id="classSelect"></select>
+
+    <label for="subjectSelect">Subject:</label>
+    <select id="subjectSelect"></select>
+
+    <label for="topicSelect">Topic:</label>
+    <select id="topicSelect"></select>
+
+    <button id="startBtn">Start Quiz</button>
+  
+  </div>
+
+  <!-- Page 2: Quiz Area -->
+  <div id="quiz" class="hidden">
+    <!-- Top Bar (only visible during quiz) -->
+    <div id="topBar">
+      <button id="homeBtn">🏠 Home</button>
+      <span id="timer">⏳ 00:00</span>
+    </div>
+
+    <div id="questionBox">
+      <p id="qText"></p>
+      <img id="qImg" alt="" style="max-width:200px; display:none;">
+    </div>
+
+    <div id="options"></div>
+
+    <div id="explanation" class="hidden">
+      <p><b>Explanation:</b> <span id="expText"></span></p>
+      <img id="expImg" alt="" style="max-width:200px; display:none;">
+    </div>
+
+    <div id="navigation">
+      <button id="prevBtn">⬅ Previous</button>
+      <button id="nextBtn">Next ➡</button>
+    </div>
+
+    <p id="scoreBox"></p>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

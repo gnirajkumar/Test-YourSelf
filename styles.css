@@ -1,0 +1,115 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("images/background_pic2.PNG");
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #0066cc;
+  color: white;
+  padding: 15px;
+}
+
+h2 {
+  color:#cc0000
+}
+
+.picker {
+  margin: 40px;
+  padding: 15px;
+  background-image: url("images/background_pic.jpg");
+  background-size: cover;      /* makes it cover the whole page */
+  background-repeat: no-repeat; /* prevents repeating */
+  background-position: center;  /* keeps it centered */
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  width: 90%;
+  height: 400px;
+  text-align: center;
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+}
+
+#classSelect,
+#subjectSelect,
+#topicSelect {
+  font-size: 25px;   /* Bigger text */
+  padding: 8px 12px; /* Bigger box */
+  margin: 15px;
+  border-radius: 5px;
+  background: #00cc33;
+  color: white;
+  cursor: pointer
+  
+}
+
+#quiz {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 600px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+/* Top bar only visible during quiz */
+#topBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+#timer {
+  font-weight: bold;
+  font-size: 18px;
+  color: #cc0000;
+}
+
+#options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.option {
+  background: #e6f0ff;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.option:hover { background: #cce0ff; }
+.correct { background: #a8e6a3 !important; }
+.wrong { background: #f7a6a6 !important; }
+
+#navigation {
+  margin-top: 15px;
+}
+
+button {
+  padding: 8px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  background: #0066cc;
+  color: white;
+  cursor: pointer;
+  font-size: 25px;
+  border-color: #cc0000;
+  border-style: solid;
+  border-width: 2px;
+}
+
+button:hover {
+  background: #004d99;
+}
+
+.hidden { display: none; }

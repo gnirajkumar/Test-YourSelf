@@ -4,7 +4,7 @@
       "DOMESTIC_ANIMALS": [
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cow.png",
+          "questionImage": "images/cow.PNG",
           "options": [
             {
               "text": "Goat",
@@ -4220,7 +4220,7 @@
       "MONEY": [
         {
           "questionText": "1-Identify this coin:",
-          "questionImage": "images/coin1.png",
+          "questionImage": "images/coin1.PNG",
           "options": [
             {
               "text": "₹1",
@@ -4245,7 +4245,7 @@
         },
         {
           "questionText": "2-Identify this coin:",
-          "questionImage": "images/coin2.png",
+          "questionImage": "images/coin2.PNG",
           "options": [
             {
               "text": "₹1",
@@ -39838,3 +39838,4 @@
   }
 
 }
+

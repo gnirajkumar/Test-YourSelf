@@ -4620,7 +4620,7 @@
         },
         {
           "questionText": "17-You have ₹1 and ₹1. How much money do you have?",
-          "questionImage": "images/coin1.jpg, IMAGES/coin1.jpg",
+          "questionImage": "images/coin1.jpg, images/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -41436,6 +41436,3 @@
     }
   }
 }
-
-
-

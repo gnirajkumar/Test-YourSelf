@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
+<div class="container">
   <!-- Page 1: Welcome -->
   <header>
     <h1>📘 Welcome to Quiz Website</h1>
@@ -19,7 +19,7 @@
   </header>
 
   <div class="picker">
-    
+  <div class="select-row">
     <label for="classSelect">Class:</label>
     <select id="classSelect"></select>
 
@@ -28,10 +28,11 @@
 
     <label for="topicSelect">Topic:</label>
     <select id="topicSelect"></select>
-
-    <button id="startBtn">Start Quiz</button>
-  
   </div>
+
+  <button id="startBtn">Start Quiz</button>
+</div>
+
 
   <!-- Page 2: Quiz Area -->
   <div id="quiz" class="hidden">
@@ -62,5 +63,6 @@
   </div>
 
   <script src="app.js"></script>
+  </div>
 </body>
 </html>

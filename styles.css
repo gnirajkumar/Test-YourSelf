@@ -1,55 +1,111 @@
+/* Background + container setup */
 body {
-  font-family: Arial, sans-serif;
-  background-image: url("images/background_pic1.png");
-  background-repeat: no-repeat;  /* stops repeating */
-  background-size: cover;        /* makes it cover the whole page */
-  background-position: center;   /* keeps it centered */
+  height: 100%;
   margin: 0;
   padding: 0;
+  display: flex;
+  justify-content: center;   /* centers horizontally */
+  align-items: center;       /* centers vertically */
   text-align: center;
+  background-image: url("images/background_pic1.png");
+  background-repeat: no-repeat;
+  background-size: cover;    /* fills screen */
+  background-position: center;
 }
 
+.container {
+  width: 90%;
+  max-width: 600px;   /* wider for better quiz area */
+  background: rgba(255,255,255,0.85);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Header */
 header {
   background: #0066cc;
   color: white;
   padding: 15px;
+  border-radius: 10px;
 }
 
 h2 {
-  color:hsl(64, 96%, 49%);
+  color: hsl(64, 96%, 49%);
+  position: relative;
+  white-space: nowrap;
+  animation: moveRightToLeft 5s linear infinite;
 }
 
+@keyframes moveRightToLeft {
+   10% { transform: translateX(10%); }
+   10% { transform: translateX(-10%); }
+}
+
+/* ✅ Picker Section */
 .picker {
-  margin: 40px;
-  padding: 15px;
+  margin: 30px auto;
+  padding: 20px;
   background-image: url("images/background_pic.png");
-  background-size: cover;      /* makes it cover the whole page */
-  background-repeat: no-repeat; /* prevents repeating */
-  background-position: center;  /* keeps it centered */
-  display: inline-block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   width: 90%;
-  height: 400px;
+  max-width: 600px;
   text-align: center;
-  font-size: 30px;
   color: #ffffff;
   font-weight: bold;
-  border: none;
 }
 
+/* Align dropdowns in one row (wrap on mobile) */
+.select-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;   /* allows wrapping on smaller screens */
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+/* Labels */
+.select-row label {
+  font-size: 16px;
+  color: #fff;
+  margin-right: 5px;
+}
+
+/* Dropdowns */
 #classSelect,
 #subjectSelect,
 #topicSelect {
-  font-size: 25px;   /* Bigger text */
-  padding: 8px 12px; /* Bigger box */
-  margin: 15px;
+  font-size: 16px;
+  padding: 6px 10px;
   border-radius: 5px;
   background: #00cc33;
   color: white;
   cursor: pointer;
+  min-width: 120px;
+  border: none;
 }
 
+/* Start button */
+#startBtn {
+  display: block;
+  margin: 15px auto 0 auto;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: 2px solid #cc0000;
+  border-radius: 8px;
+  background: #0066cc;
+  color: white;
+  cursor: pointer;
+}
+#startBtn:hover {
+  background: #004d99;
+}
+
+/* Quiz Area */
 #quiz {
   margin: 20px auto;
   padding: 20px;
@@ -59,7 +115,7 @@ h2 {
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
-/* Top bar only visible during quiz */
+/* Top bar during quiz */
 #topBar {
   display: flex;
   justify-content: space-between;
@@ -73,6 +129,7 @@ h2 {
   color: #cc0000;
 }
 
+/* Options grid */
 #options {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -86,9 +143,8 @@ h2 {
   border-radius: 8px;
   cursor: pointer;
   transition: 0.2s;
-  text-align: center; /* center option text + image */
+  text-align: center;
 }
-
 .option:hover { background: #cce0ff; }
 .correct { background: #a8e6a3 !important; }
 .wrong { background: #f7a6a6 !important; }
@@ -97,6 +153,7 @@ h2 {
   margin-top: 15px;
 }
 
+/* Buttons inside quiz */
 button {
   padding: 8px 15px;
   margin: 5px;
@@ -105,39 +162,33 @@ button {
   background: #0066cc;
   color: white;
   cursor: pointer;
-  font-size: 25px;
+  font-size: 18px;
   border-color: #cc0000;
   border-style: solid;
   border-width: 2px;
 }
+button:hover { background: #004d99; }
 
-button:hover {
-  background: #004d99;
-}
-
+/* Hidden class */
 .hidden { display: none; }
 
-/* ✅ Center and make all images responsive */
+/* ✅ Responsive images */
 #qImg,
 #expImg,
 #options img {
   display: block;
   margin: 10px auto;
-  max-width: 90%;  /* scales for mobile */
+  max-width: 90%;
   height: auto;
 }
 
-h2 {
-      position: relative;
-      white-space: nowrap; /* Prevent text wrapping */
-      animation: moveRightToLeft 15s linear infinite;
-    }
+/* ✅ Mobile tweaks */
+@media (max-width: 600px) {
+  #options {
+    grid-template-columns: 1fr; /* options stack on mobile */
+  }
 
-    @keyframes moveRightToLeft {
-      0% {
-        transform: translateX(100%); /* start off screen right */
-      }
-      100% {
-        transform: translateX(-100%); /* move off screen left */
-      }
-    }
+  #startBtn {
+    width: 100%; /* big button on mobile */
+  }
+}

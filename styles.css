@@ -1,37 +1,35 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url("images/background_pic.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: url("images/background_pic2.PNG");
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-/* Header */
 header {
   background: #0066cc;
   color: white;
   padding: 15px;
 }
-h2 { color: #cc0000; }
 
-/* Picker Section */
+h2 {
+  color:#cc0000;
+}
+
 .picker {
-  margin: 20px auto;
+  margin: 40px;
   padding: 15px;
-  background-image: url("images/background_pic1.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: url("images/background_pic.jpg");
+  background-size: cover;      /* makes it cover the whole page */
+  background-repeat: no-repeat; /* prevents repeating */
+  background-position: center;  /* keeps it centered */
   display: inline-block;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   width: 90%;
-  max-width: 600px;
+  height: 400px;
   text-align: center;
-  font-size: 20px;
+  font-size: 30px;
   color: #ffffff;
   font-weight: bold;
   border: none;
@@ -40,18 +38,15 @@ h2 { color: #cc0000; }
 #classSelect,
 #subjectSelect,
 #topicSelect {
-  font-size: 18px;
-  padding: 10px;
-  margin: 10px;
+  font-size: 25px;   /* Bigger text */
+  padding: 8px 12px; /* Bigger box */
+  margin: 15px;
   border-radius: 5px;
   background: #00cc33;
   color: white;
   cursor: pointer;
-  width: 90%;         /* Full width in mobile */
-  max-width: 400px;
 }
 
-/* Quiz Section */
 #quiz {
   margin: 20px auto;
   padding: 20px;
@@ -59,16 +54,14 @@ h2 { color: #cc0000; }
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-  text-align: center;
 }
 
-/* Top Bar */
+/* Top bar only visible during quiz */
 #topBar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 15px;
-  flex-wrap: wrap;
 }
 
 #timer {
@@ -77,16 +70,6 @@ h2 { color: #cc0000; }
   color: #cc0000;
 }
 
-/* Question & Images */
-#questionBox img,
-#explanation img {
-  max-width: 100%;
-  height: auto;
-  margin-top: 10px;
-  border-radius: 8px;
-}
-
-/* Options */
 #options {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -100,35 +83,29 @@ h2 { color: #cc0000; }
   border-radius: 8px;
   cursor: pointer;
   transition: 0.2s;
-  word-wrap: break-word;
-  font-size: 16px;
-}
-
-.option img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 6px;
+  text-align: center; /* center option text + image */
 }
 
 .option:hover { background: #cce0ff; }
 .correct { background: #a8e6a3 !important; }
 .wrong { background: #f7a6a6 !important; }
 
-/* Navigation Buttons */
 #navigation {
   margin-top: 15px;
 }
 
 button {
-  padding: 10px 15px;
+  padding: 8px 15px;
   margin: 5px;
   border: none;
   border-radius: 5px;
   background: #0066cc;
   color: white;
   cursor: pointer;
-  font-size: 18px;
-  border: 2px solid #cc0000;
+  font-size: 25px;
+  border-color: #cc0000;
+  border-style: solid;
+  border-width: 2px;
 }
 
 button:hover {
@@ -137,11 +114,12 @@ button:hover {
 
 .hidden { display: none; }
 
-/* 🔹 Mobile Responsive Fix */
-@media (max-width: 768px) {
-  header h1 { font-size: 22px; }
-  header h2, header h3 { font-size: 18px; }
-  .picker { font-size: 18px; height: auto; }
-  #options { grid-template-columns: 1fr; } /* options in one column on small screen */
-  button { font-size: 16px; padding: 8px 12px; }
+/* ✅ Center and make all images responsive */
+#qImg,
+#expImg,
+#options img {
+  display: block;
+  margin: 10px auto;
+  max-width: 90%;  /* scales for mobile */
+  height: auto;
 }

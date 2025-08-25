@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url("images/background_pic2.PNG");
+  background-image: url("images/background_pic1.png");
   margin: 0;
   padding: 0;
   text-align: center;
@@ -19,7 +19,7 @@ h2 {
 .picker {
   margin: 40px;
   padding: 15px;
-  background-image: url("images/background_pic.jpg");
+  background-image: url("images/background_pic.png");
   background-size: cover;      /* makes it cover the whole page */
   background-repeat: no-repeat; /* prevents repeating */
   background-position: center;  /* keeps it centered */

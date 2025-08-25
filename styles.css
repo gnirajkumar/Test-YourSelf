@@ -123,3 +123,18 @@ button:hover {
   max-width: 90%;  /* scales for mobile */
   height: auto;
 }
+
+h2 {
+      position: relative;
+      white-space: nowrap; /* Prevent text wrapping */
+      animation: moveRightToLeft 15s linear infinite;
+    }
+
+    @keyframes moveRightToLeft {
+      0% {
+        transform: translateX(100%); /* start off screen right */
+      }
+      100% {
+        transform: translateX(-100%); /* move off screen left */
+      }
+    }

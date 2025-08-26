@@ -13,7 +13,7 @@
   <!-- Page 1: Welcome -->
   <header>
     <h1>📘 Welcome to Quiz Website</h1>
-    <h2>DEVELOPED BY ANIRAJ KUMAR</h2>
+    <h2>DEVELOPED BY ANIRAJ KUMAR </h2>
     <h3>CHECK YOUR KNOWLEDGE</h3>
     <p>Select Class then Subject and Topic and click to start Quiz button to start the Quiz</p>
   </header>
@@ -22,9 +22,11 @@
   <div class="select-row">
     <label for="classSelect">Class:</label>
     <select id="classSelect"></select>
+    <br/>
 
     <label for="subjectSelect">Subject:</label>
     <select id="subjectSelect"></select>
+    <br/>
 
     <label for="topicSelect">Topic:</label>
     <select id="topicSelect"></select>
@@ -35,13 +37,14 @@
 
 
   <!-- Page 2: Quiz Area -->
+   <div id="container2">
   <div id="quiz" class="hidden">
     <!-- Top Bar (only visible during quiz) -->
     <div id="topBar">
       <button id="homeBtn">🏠 Home</button>
       <span id="timer">⏳ 00:00</span>
     </div>
-
+    
     <div id="questionBox">
       <p id="qText"></p>
       <img id="qImg" alt="" style="max-width:100px; display:none;">
@@ -61,9 +64,10 @@
 
     <p id="scoreBox"></p>
   </div>
+  
 
   <script src="app.js"></script>
   </div>
+  </div>
 </body>
 </html>
-

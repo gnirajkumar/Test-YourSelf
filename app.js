@@ -2,6 +2,7 @@ let allData = {};
 let questions = [];
 let current = 0, score = 0;
 let timerInterval, timeLeft = 0;
+let timerStarted = false; // ✅ track if timer has started
 
 async function loadData(){
   let res = await fetch("questions.json");
@@ -47,10 +48,10 @@ document.getElementById("startBtn").onclick = ()=>{
   let topic = topicSelect.value;
   questions = allData[cls][subj][topic];
   current=0; score=0;
+  timerStarted = false; // reset
   document.querySelector(".picker").classList.add("hidden");
   document.getElementById("quiz").classList.remove("hidden");
 
-  startTimer(questions.length * 30); // 30 sec per question
   loadQ();
 };
 
@@ -85,6 +86,12 @@ function loadQ(){
 }
 
 function select(i){
+  // ✅ Start timer on first attempt only
+  if(!timerStarted){
+    timerStarted = true;
+    startTimer(questions.length * 30); // 30 sec per question
+  }
+
   let q = questions[current];
   let opts = document.getElementById("options").children;
   if(i===q.correct){ score++; opts[i].classList.add("correct"); }
@@ -114,15 +121,17 @@ document.getElementById("prevBtn").onclick = ()=>{
 
 // 🏠 Home button
 document.getElementById("homeBtn").onclick = ()=>{
-  clearInterval(timerInterval);
+  stopTimer();
   document.getElementById("quiz").classList.add("hidden");
   document.querySelector(".picker").classList.remove("hidden");
 };
 
-// ⏳ Timer functions
+// ========== ⏳ Timer functions ==========
 function startTimer(seconds){
   clearInterval(timerInterval);
   timeLeft = seconds;
+  const timerEl = document.getElementById("timer");
+  timerEl.style.display = "inline";  // ✅ show timer only now
   updateTimer();
   timerInterval = setInterval(()=>{
     timeLeft--;
@@ -132,6 +141,13 @@ function startTimer(seconds){
       endQuiz();
     }
   },1000);
+}
+
+function stopTimer(){
+  clearInterval(timerInterval);
+  const timerEl = document.getElementById("timer");
+  timerEl.style.display = "none";    // ✅ hide timer
+  timerEl.textContent = "⏳ 00:00";  // reset
 }
 
 function updateTimer(){
@@ -144,7 +160,7 @@ function endQuiz(){
   alert(`⏱ Time up or quiz finished! Final Score: ${score}/${questions.length}`);
   document.getElementById("quiz").classList.add("hidden");
   document.querySelector(".picker").classList.remove("hidden");
-  clearInterval(timerInterval);
+  stopTimer();  // ✅ stop & hide timer
 }
 
 loadData();

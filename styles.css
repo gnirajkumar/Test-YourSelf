@@ -130,10 +130,12 @@ h2 {
 }
 
 #timer {
+  display: none;   /* hidden by default */
   font-weight: bold;
   font-size: 18px;
   color: #cc0000;
 }
+
 
 /* Options grid */
 #options {

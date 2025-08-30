@@ -9,17 +9,18 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="container">
+<div class="container"> <!-- Container start from here-->
   <!-- Page 1: Welcome -->
-  <header>
+  <header> <!--header starts here-->
     <h1>📘 Welcome to Quiz Website</h1>
     <h2>DEVELOPED BY ANIRAJ KUMAR </h2>
     <h3>CHECK YOUR KNOWLEDGE</h3>
     <p>Select Class then Subject and Topic and click to start Quiz button to start the Quiz</p>
-  </header>
+  </header> <!--header ends here-->
 
-  <div class="picker">
-  <div class="select-row">
+  <div class="picker"> <!-- picker starts here--> 
+
+  <div class="select-row"> <!-- select-row starts here-->
     <label for="classSelect">Class:</label>
     <select id="classSelect"></select>
     <br/>
@@ -30,44 +31,48 @@
 
     <label for="topicSelect">Topic:</label>
     <select id="topicSelect"></select>
-  </div>
+  </div><!-- select-row starts here--> 
 
   <button id="startBtn">Start Quiz</button>
-</div>
+
+</div> <!-- picker ends here-->
 
 
   <!-- Page 2: Quiz Area -->
-   <div id="container2">
-  <div id="quiz" class="hidden">
+   <div id="container2"> <!-- container2 starts here-->
+    
+  <div id="quiz" class="hidden"> <!-- quiz starts here-->
+
     <!-- Top Bar (only visible during quiz) -->
-    <div id="topBar">
+    <div id="topBar"> <!-- topBar starts here-->
       <button id="homeBtn">🏠 Home</button>
       <span id="timer">⏳ 00:00</span>
-    </div>
+    </div> <!-- topBar ends here-->
     
-    <div id="questionBox">
+    <div id="questionBox"> <!-- questionBox starts here-->
       <p id="qText"></p>
       <img id="qImg" alt="" style="max-width:100px; display:none;">
-    </div>
+    </div><!-- questionBox ends here-->
 
-    <div id="options"></div>
+    <div id="options"></div> <!-- options starts here-->
 
-    <div id="explanation" class="hidden">
+    <div id="explanation" class="hidden"> <!-- explanation starts here-->
       <p><b>Explanation:</b> <span id="expText"></span></p>
       <img id="expImg" alt="" style="max-width:100px; display:none;">
-    </div>
+    </div><!-- explanation ends here-->
 
-    <div id="navigation">
+    <div id="navigation"><!-- navigation starts here-->
       <button id="prevBtn">⬅ Previous</button>
       <button id="nextBtn">Next ➡</button>
-    </div>
+    </div><!-- navigation ends here-->
 
     <p id="scoreBox"></p>
-  </div>
+  </div> <!-- quiz ends here-->
   
 
   <script src="app.js"></script>
-  </div>
-  </div>
+  </div><!-- container2 ends here-->
+
+  </div><!-- container ends here-->
 </body>
 </html>

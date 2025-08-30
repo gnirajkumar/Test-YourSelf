@@ -17,7 +17,7 @@ html, body {
   width: 95%;
   max-width: 900px;
   margin: 20px auto;     /* added margin top/bottom */
-  background-image: url("images/background_pic2.png");
+  background-color: rgba(211, 223, 52, 0.8);
   padding: 15px;
   border-radius: 10px;
   box-sizing: border-box;
@@ -47,8 +47,8 @@ h2 {
   background-position: center;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  width: 90%;
-  max-width: 600px;
+  width: 100%;
+  max-width: 825px;
   text-align: center;
   color: #ffffff;
   font-weight: bold;
@@ -111,10 +111,12 @@ h2 {
 #quiz {
   margin: 20px auto 40px; /* extra bottom margin */
   padding: 20px;
-  max-width: 600px;
-  background: #fff;
+  max-width: 825px;
+  background: #cea4a4;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  margin: 20px auto;
+
 }
 
 /* Top bar during quiz */
@@ -145,17 +147,26 @@ h2 {
   margin-top: 15px;
 }
 
+#qText {
+  font-size: 20px;   /* bigger font */
+  font-weight: bold; /* bold text */
+}
+
 .option {
-  background: #e6f0ff;
+  background: #07b6e2;
   padding: 10px;
   border-radius: 8px;
   cursor: pointer;
   transition: 0.2s;
   text-align: center;
+  color: white;
+  font-size: 20px;   /* bigger font */
+  font-weight: bold; /* bold text */
+  margin-bottom: 15px;
 }
-.option:hover { background: #cce0ff; }
-.correct { background: #a8e6a3 !important; }
-.wrong { background: #f7a6a6 !important; }
+.option:hover { background: #035de4; }
+.correct { background: #03e922 !important; }
+.wrong { background: #eb1c1c !important; }
 
 #navigation {
   margin-top: 15px;
@@ -171,6 +182,7 @@ button {
   color: white;
   cursor: pointer;
   font-size: 18px;
+  font-weight: bold;
   border-color: #cc0000;
   border-style: solid;
   border-width: 2px;

@@ -4,7 +4,7 @@
       "DOMESTIC_ANIMALS": [
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cow.jpg",
+          "questionImage": "IMAGES/cow.jpg",
           "options": [
             {
               "text": "Goat",
@@ -29,7 +29,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/goat.jpg",
+          "questionImage": "IMAGES/goat.jpg",
           "options": [
             {
               "text": "Sheep",
@@ -54,7 +54,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/sheep.jpg",
+          "questionImage": "IMAGES/sheep.jpg",
           "options": [
             {
               "text": "Sheep",
@@ -79,7 +79,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/dog.jpg",
+          "questionImage": "IMAGES/dog.jpg",
           "options": [
             {
               "text": "Jackal",
@@ -104,7 +104,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cat.jpg",
+          "questionImage": "IMAGES/cat.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -129,7 +129,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/horse.jpg",
+          "questionImage": "IMAGES/horse.jpg",
           "options": [
             {
               "text": "Donkey",
@@ -154,7 +154,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/donkey.jpg",
+          "questionImage": "IMAGES/donkey.jpg",
           "options": [
             {
               "text": "Mule",
@@ -179,7 +179,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/camel.jpg",
+          "questionImage": "IMAGES/camel.jpg",
           "options": [
             {
               "text": "Horse",
@@ -204,7 +204,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/pig.jpg",
+          "questionImage": "IMAGES/pig.jpg",
           "options": [
             {
               "text": "Goat",
@@ -229,7 +229,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/hen.jpg",
+          "questionImage": "IMAGES/hen.jpg",
           "options": [
             {
               "text": "Duck",
@@ -254,7 +254,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/duck.jpg",
+          "questionImage": "IMAGES/duck.jpg",
           "options": [
             {
               "text": "Goose",
@@ -279,7 +279,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/turkey.jpg",
+          "questionImage": "IMAGES/turkey.jpg",
           "options": [
             {
               "text": "Goose",
@@ -304,7 +304,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/goose.jpg",
+          "questionImage": "IMAGES/goose.jpg",
           "options": [
             {
               "text": "Hen",
@@ -329,7 +329,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/pigeon.jpg",
+          "questionImage": "IMAGES/pigeon.jpg",
           "options": [
             {
               "text": "Sparrow",
@@ -354,7 +354,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/rabbit.jpg",
+          "questionImage": "IMAGES/rabbit.jpg",
           "options": [
             {
               "text": "Mouse",
@@ -379,7 +379,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/parrot.jpg",
+          "questionImage": "IMAGES/parrot.jpg",
           "options": [
             {
               "text": "Pigeon",
@@ -404,7 +404,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/mule.jpg",
+          "questionImage": "IMAGES/mule.jpg",
           "options": [
             {
               "text": "Camel",
@@ -429,7 +429,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/buffalo.jpg",
+          "questionImage": "IMAGES/buffalo.jpg",
           "options": [
             {
               "text": "Cow",
@@ -454,7 +454,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/ox.jpg",
+          "questionImage": "IMAGES/ox.jpg",
           "options": [
             {
               "text": "Cow",
@@ -479,7 +479,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/yak.jpg",
+          "questionImage": "IMAGES/yak.jpg",
           "options": [
             {
               "text": "Sheep",
@@ -506,7 +506,7 @@
       "FLOWERS": [
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/rose.jpg",
+          "questionImage": "IMAGES/rose.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -531,7 +531,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/sunflower.jpg",
+          "questionImage": "IMAGES/sunflower.jpg",
           "options": [
             {
               "text": "Rose",
@@ -556,7 +556,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/lotus.jpg",
+          "questionImage": "IMAGES/lotus.jpg",
           "options": [
             {
               "text": "Jasmine",
@@ -581,7 +581,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/marigold.jpg",
+          "questionImage": "IMAGES/marigold.jpg",
           "options": [
             {
               "text": "Rose",
@@ -606,7 +606,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/jasmine.jpg",
+          "questionImage": "IMAGES/jasmine.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -631,7 +631,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/tulip.jpg",
+          "questionImage": "IMAGES/tulip.jpg",
           "options": [
             {
               "text": "Hibiscus",
@@ -656,7 +656,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/hibiscus.jpg",
+          "questionImage": "IMAGES/hibiscus.jpg",
           "options": [
             {
               "text": "Marigold",
@@ -681,7 +681,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/daisy.jpg",
+          "questionImage": "IMAGES/daisy.jpg",
           "options": [
             {
               "text": "Tulip",
@@ -706,7 +706,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/lily.jpg",
+          "questionImage": "IMAGES/lily.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -731,7 +731,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/orchid.jpg",
+          "questionImage": "IMAGES/orchid.jpg",
           "options": [
             {
               "text": "Daisy",
@@ -756,7 +756,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/lavender.jpg",
+          "questionImage": "IMAGES/lavender.jpg",
           "options": [
             {
               "text": "Rose",
@@ -781,7 +781,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/chrysanthemum.jpg",
+          "questionImage": "IMAGES/chrysanthemum.jpg",
           "options": [
             {
               "text": "Tulip",
@@ -806,7 +806,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/daffodil.jpg",
+          "questionImage": "IMAGES/daffodil.jpg",
           "options": [
             {
               "text": "Orchid",
@@ -831,7 +831,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/poppy.jpg",
+          "questionImage": "IMAGES/poppy.jpg",
           "options": [
             {
               "text": "Jasmine",
@@ -856,7 +856,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/carnation.jpg",
+          "questionImage": "IMAGES/carnation.jpg",
           "options": [
             {
               "text": "Orchid",
@@ -881,7 +881,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/peony.jpg",
+          "questionImage": "IMAGES/peony.jpg",
           "options": [
             {
               "text": "Daisy",
@@ -906,7 +906,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/magnolia.jpg",
+          "questionImage": "IMAGES/magnolia.jpg",
           "options": [
             {
               "text": "Jasmine",
@@ -931,7 +931,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/bluebell.jpg",
+          "questionImage": "IMAGES/bluebell.jpg",
           "options": [
             {
               "text": "Rose",
@@ -956,7 +956,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/gladiolus.jpg",
+          "questionImage": "IMAGES/gladiolus.jpg",
           "options": [
             {
               "text": "Hibiscus",
@@ -981,7 +981,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/petunia.jpg",
+          "questionImage": "IMAGES/petunia.jpg",
           "options": [
             {
               "text": "Daisy",
@@ -1006,7 +1006,7 @@
         },
         {
           "questionText": "Identify this flower.",
-          "questionImage": "images/zinnia.jpg",
+          "questionImage": "IMAGES/zinnia.jpg",
           "options": [
             {
               "text": "Orchid",
@@ -1033,7 +1033,7 @@
       "PLANTS": [
         {
           "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "images/mango_plant.jpg",
+          "questionImage": "IMAGES/mango_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -1058,7 +1058,7 @@
         },
         {
           "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "images/banana_plant.jpg",
+          "questionImage": "IMAGES/banana_plant.jpg",
           "options": [
             {
               "text": "Sunflower",
@@ -1083,7 +1083,7 @@
         },
         {
           "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "images/rose_plant.jpg",
+          "questionImage": "IMAGES/rose_plant.jpg",
           "options": [
             {
               "text": "Lotus",
@@ -1108,7 +1108,7 @@
         },
         {
           "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "images/tulsi_plant.jpg",
+          "questionImage": "IMAGES/tulsi_plant.jpg",
           "options": [
             {
               "text": "Cactus",
@@ -1133,7 +1133,7 @@
         },
         {
           "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "images/neem_plant.jpg",
+          "questionImage": "IMAGES/neem_plant.jpg",
           "options": [
             {
               "text": "Banana",
@@ -1158,7 +1158,7 @@
         },
         {
           "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "images/coconut_plant.jpg",
+          "questionImage": "IMAGES/coconut_plant.jpg",
           "options": [
             {
               "text": "Coconut",
@@ -1183,7 +1183,7 @@
         },
         {
           "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "images/peepal_plant.jpg",
+          "questionImage": "IMAGES/peepal_plant.jpg",
           "options": [
             {
               "text": "Peepal",
@@ -1208,7 +1208,7 @@
         },
         {
           "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "images/banyan_plant.jpg",
+          "questionImage": "IMAGES/banyan_plant.jpg",
           "options": [
             {
               "text": "Lemon",
@@ -1233,7 +1233,7 @@
         },
         {
           "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "images/lemon_plant.jpg",
+          "questionImage": "IMAGES/lemon_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -1258,7 +1258,7 @@
         },
         {
           "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "images/papaya_plant.jpg",
+          "questionImage": "IMAGES/papaya_plant.jpg",
           "options": [
             {
               "text": "Tulsi",
@@ -1283,7 +1283,7 @@
         },
         {
           "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "images/cactus_plant.jpg",
+          "questionImage": "IMAGES/cactus_plant.jpg",
           "options": [
             {
               "text": "Neem",
@@ -1310,7 +1310,7 @@
       "REPTILES": [
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/crocodile.jpg",
+          "questionImage": "IMAGES/crocodile.jpg",
           "options": [
             {
               "text": "Turtle",
@@ -1335,7 +1335,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/alligator.jpg",
+          "questionImage": "IMAGES/alligator.jpg",
           "options": [
             {
               "text": "Crocodile",
@@ -1360,7 +1360,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/lizard.jpg",
+          "questionImage": "IMAGES/lizard.jpg",
           "options": [
             {
               "text": "Chameleon",
@@ -1385,7 +1385,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/snake.jpg",
+          "questionImage": "IMAGES/snake.jpg",
           "options": [
             {
               "text": "Earthworm",
@@ -1410,7 +1410,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/turtle.jpg",
+          "questionImage": "IMAGES/turtle.jpg",
           "options": [
             {
               "text": "Turtle",
@@ -1435,7 +1435,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/tortoise.jpg",
+          "questionImage": "IMAGES/tortoise.jpg",
           "options": [
             {
               "text": "Tortoise",
@@ -1460,7 +1460,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/chameleon.jpg",
+          "questionImage": "IMAGES/chameleon.jpg",
           "options": [
             {
               "text": "Snake",
@@ -1485,7 +1485,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/iguana.jpg",
+          "questionImage": "IMAGES/iguana.jpg",
           "options": [
             {
               "text": "Lizard",
@@ -1510,7 +1510,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/kingcobra.jpg",
+          "questionImage": "IMAGES/kingcobra.jpg",
           "options": [
             {
               "text": "Python",
@@ -1535,7 +1535,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/python.jpg",
+          "questionImage": "IMAGES/python.jpg",
           "options": [
             {
               "text": "Anaconda",
@@ -1560,7 +1560,7 @@
         },
         {
           "questionText": "Identify this reptile.",
-          "questionImage": "images/anaconda.jpg",
+          "questionImage": "IMAGES/anaconda.jpg",
           "options": [
             {
               "text": "Viper",
@@ -1587,7 +1587,7 @@
       "WILD_ANIMALS": [
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/lion.jpg",
+          "questionImage": "IMAGES/lion.jpg",
           "options": [
             {
               "text": "Lion",
@@ -1612,7 +1612,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/tiger.jpg",
+          "questionImage": "IMAGES/tiger.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -1637,7 +1637,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/elephant.jpg",
+          "questionImage": "IMAGES/elephant.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -1662,7 +1662,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/bear.jpg",
+          "questionImage": "IMAGES/bear.jpg",
           "options": [
             {
               "text": "Lion",
@@ -1687,7 +1687,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/leopard.jpg",
+          "questionImage": "IMAGES/leopard.jpg",
           "options": [
             {
               "text": "Giraffe",
@@ -1712,7 +1712,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/zebra.jpg",
+          "questionImage": "IMAGES/zebra.jpg",
           "options": [
             {
               "text": "Zebra",
@@ -1737,7 +1737,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/giraffe.jpg",
+          "questionImage": "IMAGES/giraffe.jpg",
           "options": [
             {
               "text": "Giraffe",
@@ -1762,7 +1762,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/rhinoceros.jpg",
+          "questionImage": "IMAGES/rhinoceros.jpg",
           "options": [
             {
               "text": "Hippopotamus",
@@ -1787,7 +1787,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/hippopotamus.jpg",
+          "questionImage": "IMAGES/hippopotamus.jpg",
           "options": [
             {
               "text": "Elephant",
@@ -1812,7 +1812,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/wolf.jpg",
+          "questionImage": "IMAGES/wolf.jpg",
           "options": [
             {
               "text": "Coyote",
@@ -1837,7 +1837,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/fox.jpg",
+          "questionImage": "IMAGES/fox.jpg",
           "options": [
             {
               "text": "Wolf",
@@ -1862,7 +1862,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/cheetah.jpg",
+          "questionImage": "IMAGES/cheetah.jpg",
           "options": [
             {
               "text": "Tiger",
@@ -1887,7 +1887,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/kangaroo.jpg",
+          "questionImage": "IMAGES/kangaroo.jpg",
           "options": [
             {
               "text": "Camel",
@@ -1912,7 +1912,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/panda.jpg",
+          "questionImage": "IMAGES/panda.jpg",
           "options": [
             {
               "text": "Bear",
@@ -1937,7 +1937,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/koala.jpg",
+          "questionImage": "IMAGES/koala.jpg",
           "options": [
             {
               "text": "Sloth",
@@ -1962,7 +1962,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/crocodile.jpg",
+          "questionImage": "IMAGES/crocodile.jpg",
           "options": [
             {
               "text": "Crocodile",
@@ -1987,7 +1987,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/alligator.jpg",
+          "questionImage": "IMAGES/alligator.jpg",
           "options": [
             {
               "text": "Alligator",
@@ -2012,7 +2012,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/camel.jpg",
+          "questionImage": "IMAGES/camel.jpg",
           "options": [
             {
               "text": "Giraffe",
@@ -2037,7 +2037,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/deer.jpg",
+          "questionImage": "IMAGES/deer.jpg",
           "options": [
             {
               "text": "Reindeer",
@@ -2062,7 +2062,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/monkey.jpg",
+          "questionImage": "IMAGES/monkey.jpg",
           "options": [
             {
               "text": "Chimpanzee",
@@ -2087,7 +2087,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/gorilla.jpg",
+          "questionImage": "IMAGES/gorilla.jpg",
           "options": [
             {
               "text": "Gorilla",
@@ -2112,7 +2112,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/hyena.jpg",
+          "questionImage": "IMAGES/hyena.jpg",
           "options": [
             {
               "text": "Dog",
@@ -2137,7 +2137,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/jackal.jpg",
+          "questionImage": "IMAGES/jackal.jpg",
           "options": [
             {
               "text": "Fox",
@@ -2162,7 +2162,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/bison.jpg",
+          "questionImage": "IMAGES/bison.jpg",
           "options": [
             {
               "text": "Yak",
@@ -2187,7 +2187,7 @@
         },
         {
           "questionText": "Identify this animal.",
-          "questionImage": "images/yak.jpg",
+          "questionImage": "IMAGES/yak.jpg",
           "options": [
             {
               "text": "Yak",
@@ -3468,7 +3468,7 @@
       "COUNTING": [
         {
           "questionText": "How many stars are there?",
-          "questionImage": "images/five_stars.jpg",
+          "questionImage": "IMAGES/five_stars.jpg",
           "options": [
             {
               "text": "3",
@@ -3493,7 +3493,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "images/three_apples.jpg",
+          "questionImage": "IMAGES/three_apples.jpg",
           "options": [
             {
               "text": "2",
@@ -3518,7 +3518,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "images/six_pencils.jpg",
+          "questionImage": "IMAGES/six_pencils.jpg",
           "options": [
             {
               "text": "4",
@@ -3543,7 +3543,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "images/seven_oranges.jpg",
+          "questionImage": "IMAGES/seven_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -3568,7 +3568,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "images/four_bananas.jpg",
+          "questionImage": "IMAGES/four_bananas.jpg",
           "options": [
             {
               "text": "3",
@@ -3593,7 +3593,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "images/two_books.jpg",
+          "questionImage": "IMAGES/two_books.jpg",
           "options": [
             {
               "text": "1",
@@ -3618,7 +3618,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "images/four_ducks.jpg",
+          "questionImage": "IMAGES/four_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -3643,7 +3643,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "images/three_balls.jpg",
+          "questionImage": "IMAGES/three_balls.jpg",
           "options": [
             {
               "text": "2",
@@ -3668,7 +3668,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "images/two_cats.jpg",
+          "questionImage": "IMAGES/two_cats.jpg",
           "options": [
             {
               "text": "1",
@@ -3693,7 +3693,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "images/three_dogs.jpg",
+          "questionImage": "IMAGES/three_dogs.jpg",
           "options": [
             {
               "text": "2",
@@ -3718,7 +3718,7 @@
         },
         {
           "questionText": "How many fish are there?",
-          "questionImage": "images/five_fishes.jpg",
+          "questionImage": "IMAGES/five_fishes.jpg",
           "options": [
             {
               "text": "4",
@@ -3743,7 +3743,7 @@
         },
         {
           "questionText": "How many flowers are there?",
-          "questionImage": "images/six_flowers.jpg",
+          "questionImage": "IMAGES/six_flowers.jpg",
           "options": [
             {
               "text": "5",
@@ -3768,7 +3768,7 @@
         },
         {
           "questionText": "How many trees are there?",
-          "questionImage": "images/two_trees.jpg",
+          "questionImage": "IMAGES/two_trees.jpg",
           "options": [
             {
               "text": "1",
@@ -3793,7 +3793,7 @@
         },
         {
           "questionText": "How many chairs are there?",
-          "questionImage": "images/four_chairs.jpg",
+          "questionImage": "IMAGES/four_chairs.jpg",
           "options": [
             {
               "text": "3",
@@ -3818,7 +3818,7 @@
         },
         {
           "questionText": "How many tables are there?",
-          "questionImage": "images/three_tables.jpg",
+          "questionImage": "IMAGES/three_tables.jpg",
           "options": [
             {
               "text": "2",
@@ -3843,7 +3843,7 @@
         },
         {
           "questionText": "How many cars are there?",
-          "questionImage": "images/five_cars.jpg",
+          "questionImage": "IMAGES/five_cars.jpg",
           "options": [
             {
               "text": "4",
@@ -3868,7 +3868,7 @@
         },
         {
           "questionText": "How many buses are there?",
-          "questionImage": "images/two_buses.jpg",
+          "questionImage": "IMAGES/two_buses.jpg",
           "options": [
             {
               "text": "1",
@@ -3893,7 +3893,7 @@
         },
         {
           "questionText": "How many birds are there?",
-          "questionImage": "images/six_birds.jpg",
+          "questionImage": "IMAGES/six_birds.jpg",
           "options": [
             {
               "text": "5",
@@ -3918,7 +3918,7 @@
         },
         {
           "questionText": "How many frogs are there?",
-          "questionImage": "images/three_frogs.jpg",
+          "questionImage": "IMAGES/three_frogs.jpg",
           "options": [
             {
               "text": "2",
@@ -3943,7 +3943,7 @@
         },
         {
           "questionText": "How many fingers are there?",
-          "questionImage": "images/five_fingers.jpg",
+          "questionImage": "IMAGES/five_fingers.jpg",
           "options": [
             {
               "text": "4",
@@ -3968,7 +3968,7 @@
         },
         {
           "questionText": "How many stars are there?",
-          "questionImage": "images/seven_stars.jpg",
+          "questionImage": "IMAGES/seven_stars.jpg",
           "options": [
             {
               "text": "5",
@@ -3993,7 +3993,7 @@
         },
         {
           "questionText": "How many apples are there?",
-          "questionImage": "images/five_apples.jpg",
+          "questionImage": "IMAGES/five_apples.jpg",
           "options": [
             {
               "text": "4",
@@ -4018,7 +4018,7 @@
         },
         {
           "questionText": "How many pencils are here?",
-          "questionImage": "images/three_pencils.jpg",
+          "questionImage": "IMAGES/three_pencils.jpg",
           "options": [
             {
               "text": "2",
@@ -4043,7 +4043,7 @@
         },
         {
           "questionText": "How many oranges are there?",
-          "questionImage": "images/six_oranges.jpg",
+          "questionImage": "IMAGES/six_oranges.jpg",
           "options": [
             {
               "text": "5",
@@ -4068,7 +4068,7 @@
         },
         {
           "questionText": "How many bananas are there?",
-          "questionImage": "images/two_bananas.jpg",
+          "questionImage": "IMAGES/two_bananas.jpg",
           "options": [
             {
               "text": "1",
@@ -4093,7 +4093,7 @@
         },
         {
           "questionText": "How many books are there?",
-          "questionImage": "images/four_books.jpg",
+          "questionImage": "IMAGES/four_books.jpg",
           "options": [
             {
               "text": "3",
@@ -4118,7 +4118,7 @@
         },
         {
           "questionText": "How many ducks are swimming?",
-          "questionImage": "images/three_ducks.jpg",
+          "questionImage": "IMAGES/three_ducks.jpg",
           "options": [
             {
               "text": "2",
@@ -4143,7 +4143,7 @@
         },
         {
           "questionText": "How many balls are there?",
-          "questionImage": "images/five_balls.jpg",
+          "questionImage": "IMAGES/five_balls.jpg",
           "options": [
             {
               "text": "4",
@@ -4168,7 +4168,7 @@
         },
         {
           "questionText": "How many cats are there?",
-          "questionImage": "images/four_cats.jpg",
+          "questionImage": "IMAGES/four_cats.jpg",
           "options": [
             {
               "text": "3",
@@ -4193,7 +4193,7 @@
         },
         {
           "questionText": "How many dogs are there?",
-          "questionImage": "images/six_dogs.jpg",
+          "questionImage": "IMAGES/six_dogs.jpg",
           "options": [
             {
               "text": "5",
@@ -4220,7 +4220,7 @@
       "MONEY": [
         {
           "questionText": "1-Identify this coin:",
-          "questionImage": "images/coin1.jpg",
+          "questionImage": "IMAGES/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4245,7 +4245,7 @@
         },
         {
           "questionText": "2-Identify this coin:",
-          "questionImage": "images/coin2.jpg",
+          "questionImage": "IMAGES/coin2.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4270,7 +4270,7 @@
         },
         {
           "questionText": "3-Identify this coin:",
-          "questionImage": "images/coin5.jpg",
+          "questionImage": "IMAGES/coin5.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4295,7 +4295,7 @@
         },
         {
           "questionText": "4-Identify this coin:",
-          "questionImage": "images/coin10.jpg",
+          "questionImage": "IMAGES/coin10.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4420,7 +4420,7 @@
         },
         {
           "questionText": "9-Identify this coin:",
-          "questionImage": "images/coin1.jpg",
+          "questionImage": "IMAGES/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4445,7 +4445,7 @@
         },
         {
           "questionText": "10-Identify this coin:",
-          "questionImage": "images/coin2.jpg",
+          "questionImage": "IMAGES/coin2.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4470,7 +4470,7 @@
         },
         {
           "questionText": "11-Identify this note:",
-          "questionImage": "images/note10.jpg",
+          "questionImage": "IMAGES/note10.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4495,7 +4495,7 @@
         },
         {
           "questionText": "12-Identify this note:",
-          "questionImage": "images/note20.jpg",
+          "questionImage": "IMAGES/note20.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4520,7 +4520,7 @@
         },
         {
           "questionText": "13-Identify this note:",
-          "questionImage": "images/note50.jpg",
+          "questionImage": "IMAGES/note50.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4545,7 +4545,7 @@
         },
         {
           "questionText": "14-Identify this note:",
-          "questionImage": "images/note100.jpg",
+          "questionImage": "IMAGES/note100.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4570,7 +4570,7 @@
         },
         {
           "questionText": "15-Identify this note:",
-          "questionImage": "images/note10.jpg",
+          "questionImage": "IMAGES/note10.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4595,7 +4595,7 @@
         },
         {
           "questionText": "16-Identify this note:",
-          "questionImage": "images/note20.jpg",
+          "questionImage": "IMAGES/note20.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4620,7 +4620,7 @@
         },
         {
           "questionText": "17-You have ₹1 and ₹1. How much money do you have?",
-          "questionImage": "images/coin1.jpg, IMAGES/coin1.jpg",
+          "questionImage": "IMAGES/coin1.jpg, IMAGES/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -4945,7 +4945,7 @@
         },
         {
           "questionText": "30-Identify this note:",
-          "questionImage": "images/note20.jpg",
+          "questionImage": "IMAGES/note20.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4970,7 +4970,7 @@
         },
         {
           "questionText": "31-Identify this note:",
-          "questionImage": "images/note50.jpg",
+          "questionImage": "IMAGES/note50.jpg",
           "options": [
             {
               "text": "₹10",
@@ -4995,7 +4995,7 @@
         },
         {
           "questionText": "32-Identify this note:",
-          "questionImage": "images/note100.jpg",
+          "questionImage": "IMAGES/note100.jpg",
           "options": [
             {
               "text": "₹10",
@@ -5020,7 +5020,7 @@
         },
         {
           "questionText": "33-Identify this note:",
-          "questionImage": "images/note10.jpg",
+          "questionImage": "IMAGES/note10.jpg",
           "options": [
             {
               "text": "₹10",
@@ -5345,7 +5345,7 @@
         },
         {
           "questionText": "46-Identify this coin:",
-          "questionImage": "images/coin1.jpg",
+          "questionImage": "IMAGES/coin1.jpg",
           "options": [
             {
               "text": "₹1",
@@ -5370,7 +5370,7 @@
         },
         {
           "questionText": "47-Identify this coin:",
-          "questionImage": "images/coin2.jpg",
+          "questionImage": "IMAGES/coin2.jpg",
           "options": [
             {
               "text": "₹1",
@@ -5395,7 +5395,7 @@
         },
         {
           "questionText": "48-Identify this coin:",
-          "questionImage": "images/coin5.jpg",
+          "questionImage": "IMAGES/coin5.jpg",
           "options": [
             {
               "text": "₹1",
@@ -5420,7 +5420,7 @@
         },
         {
           "questionText": "49-Identify this coin:",
-          "questionImage": "images/coin10.jpg",
+          "questionImage": "IMAGES/coin10.jpg",
           "options": [
             {
               "text": "₹1",
@@ -86300,281 +86300,2106 @@
           "explanationImage": ""
         }
       ],
-      "IS MATTER AROUND US PURE": [
+      "4. IS MATTER AROUND US PURE": [
         {
-          "questionText": "Q.No.-1 Identify this plant.",
-          "questionImage": "mango_plant.png",
+          "questionText": "What is meant by 'pure substance' in science?",
+          "questionImage": null,
           "options": [
             {
-              "text": "Lotus",
+              "text": "A substance made of only one kind of particle",
               "image": null
             },
             {
-              "text": "Lemon",
+              "text": "A substance with different types of particles",
               "image": null
             },
             {
-              "text": "Jasmine",
+              "text": "A substance mixed with impurities",
               "image": null
             },
             {
-              "text": "Mango",
-              "image": null
-            }
-          ],
-          "correct": 3,
-          "explanationText": "The shown plant is Mango.",
-          "explanationImage": "mango_plant.png"
-        },
-        {
-          "questionText": "Q.No.-2 Identify this plant.",
-          "questionImage": "banana_plant.png",
-          "options": [
-            {
-              "text": "Sunflower",
-              "image": null
-            },
-            {
-              "text": "Lotus",
-              "image": null
-            },
-            {
-              "text": "Banana",
-              "image": null
-            },
-            {
-              "text": "Cactus",
-              "image": null
-            }
-          ],
-          "correct": 2,
-          "explanationText": "The shown plant is Banana.",
-          "explanationImage": "banana_plant.png"
-        },
-        {
-          "questionText": "Q.No.-3 Identify this plant.",
-          "questionImage": "rose_plant.png",
-          "options": [
-            {
-              "text": "Lotus",
-              "image": null
-            },
-            {
-              "text": "Banana",
-              "image": null
-            },
-            {
-              "text": "Mango",
-              "image": null
-            },
-            {
-              "text": "Rose",
-              "image": null
-            }
-          ],
-          "correct": 3,
-          "explanationText": "The shown plant is Rose.",
-          "explanationImage": "rose_plant.png"
-        },
-        {
-          "questionText": "Q.No.-4 Identify this plant.",
-          "questionImage": "tulsi_plant.png",
-          "options": [
-            {
-              "text": "Cactus",
-              "image": null
-            },
-            {
-              "text": "Banana",
-              "image": null
-            },
-            {
-              "text": "Banyan",
-              "image": null
-            },
-            {
-              "text": "Tulsi",
-              "image": null
-            }
-          ],
-          "correct": 3,
-          "explanationText": "The shown plant is Tulsi.",
-          "explanationImage": "tulsi_plant.png"
-        },
-        {
-          "questionText": "Q.No.-5 Identify this plant.",
-          "questionImage": "neem_plant.png",
-          "options": [
-            {
-              "text": "Banana",
-              "image": null
-            },
-            {
-              "text": "Peepal",
-              "image": null
-            },
-            {
-              "text": "Tulsi",
-              "image": null
-            },
-            {
-              "text": "Neem",
-              "image": null
-            }
-          ],
-          "correct": 3,
-          "explanationText": "The shown plant is Neem.",
-          "explanationImage": "neem_plant.png"
-        },
-        {
-          "questionText": "Q.No.-8 Identify this plant.",
-          "questionImage": "coconut_plant.png",
-          "options": [
-            {
-              "text": "Coconut",
-              "image": null
-            },
-            {
-              "text": "Cactus",
-              "image": null
-            },
-            {
-              "text": "Tulsi",
-              "image": null
-            },
-            {
-              "text": "Jasmine",
+              "text": "Any substance found in nature",
               "image": null
             }
           ],
           "correct": 0,
-          "explanationText": "The shown plant is Coconut.",
-          "explanationImage": "coconut_plant.png"
+          "explanationText": "A pure substance is composed of only one kind of atom or molecule and has fixed properties.",
+          "explanationImage": ""
         },
         {
-          "questionText": "Q.No.-9 Identify this plant.",
-          "questionImage": "peepal_plant.png",
+          "questionText": "Which of the following is a pure substance?",
+          "questionImage": null,
           "options": [
             {
-              "text": "Peepal",
+              "text": "Air",
               "image": null
             },
             {
-              "text": "Neem",
+              "text": "Milk",
               "image": null
             },
             {
-              "text": "Banyan",
+              "text": "Distilled water",
               "image": null
             },
             {
-              "text": "Cactus",
-              "image": null
-            }
-          ],
-          "correct": 0,
-          "explanationText": "The shown plant is Peepal.",
-          "explanationImage": "peepal_plant.png"
-        },
-        {
-          "questionText": "Q.No.-10 Identify this plant.",
-          "questionImage": "banyan_plant.png",
-          "options": [
-            {
-              "text": "Lemon",
-              "image": null
-            },
-            {
-              "text": "Cactus",
-              "image": null
-            },
-            {
-              "text": "Sunflower",
-              "image": null
-            },
-            {
-              "text": "Banyan",
-              "image": null
-            }
-          ],
-          "correct": 3,
-          "explanationText": "The shown plant is Banyan.",
-          "explanationImage": "banyan_plant.png"
-        },
-        {
-          "questionText": "Q.No.-11 Identify this plant.",
-          "questionImage": "lemon_plant.png",
-          "options": [
-            {
-              "text": "Tulsi",
-              "image": null
-            },
-            {
-              "text": "Peepal",
-              "image": null
-            },
-            {
-              "text": "Lemon",
-              "image": null
-            },
-            {
-              "text": "Hibiscus",
+              "text": "Lemonade",
               "image": null
             }
           ],
           "correct": 2,
-          "explanationText": "The shown plant is Lemon.",
-          "explanationImage": "lemon_plant.png"
+          "explanationText": "Distilled water contains only water molecules without impurities, making it a pure substance.",
+          "explanationImage": ""
         },
         {
-          "questionText": "Q.No.-12 Identify this plant.",
-          "questionImage": "papaya_plant.png",
+          "questionText": "Which of the following is a mixture?",
+          "questionImage": null,
           "options": [
             {
-              "text": "Tulsi",
+              "text": "Gold",
               "image": null
             },
             {
-              "text": "Mango",
+              "text": "Oxygen gas",
               "image": null
             },
             {
-              "text": "Neem",
+              "text": "Air",
               "image": null
             },
             {
-              "text": "Papaya",
+              "text": "Sodium chloride",
               "image": null
             }
           ],
-          "correct": 3,
-          "explanationText": "The shown plant is Papaya.",
-          "explanationImage": "papaya_plant.png"
+          "correct": 2,
+          "explanationText": "Air is a mixture of nitrogen, oxygen, carbon dioxide, water vapor, and other gases.",
+          "explanationImage": ""
         },
         {
-          "questionText": "Q.No.-13 Identify this plant.",
-          "questionImage": "cactus_plant.png",
+          "questionText": "Brass is an example of which type of mixture?",
+          "questionImage": null,
           "options": [
             {
-              "text": "Neem",
+              "text": "Homogeneous mixture",
               "image": null
             },
             {
-              "text": "Lotus",
+              "text": "Heterogeneous mixture",
               "image": null
             },
             {
-              "text": "Jasmine",
+              "text": "Compound",
               "image": null
             },
             {
-              "text": "Cactus",
+              "text": "Element",
               "image": null
             }
           ],
-          "correct": 3,
-          "explanationText": "The shown plant is Cactus.",
-          "explanationImage": "cactus_plant.png"
+          "correct": 0,
+          "explanationText": "Brass is a solid solution of copper and zinc, uniform throughout.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which one of the following is NOT a homogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Sand and salt mixture",
+              "image": null
+            },
+            {
+              "text": "Brass",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Sand and salt mixture is not uniform throughout, hence heterogeneous.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What are the two types of pure substances?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Elements and compounds",
+              "image": null
+            },
+            {
+              "text": "Mixtures and alloys",
+              "image": null
+            },
+            {
+              "text": "Solutions and suspensions",
+              "image": null
+            },
+            {
+              "text": "Colloids and gases",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Pure substances are classified into elements and compounds based on their composition.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is an element?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Water",
+              "image": null
+            },
+            {
+              "text": "Oxygen",
+              "image": null
+            },
+            {
+              "text": "Salt",
+              "image": null
+            },
+            {
+              "text": "Sugar",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Oxygen is made up of only one type of atom, hence it is an element.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a compound?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Iron",
+              "image": null
+            },
+            {
+              "text": "Oxygen",
+              "image": null
+            },
+            {
+              "text": "Carbon dioxide",
+              "image": null
+            },
+            {
+              "text": "Gold",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Carbon dioxide consists of carbon and oxygen chemically combined in a fixed ratio.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a heterogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Smoke",
+              "image": null
+            },
+            {
+              "text": "Brass",
+              "image": null
+            },
+            {
+              "text": "Vinegar",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Smoke consists of solid particles dispersed in air, making it a heterogeneous mixture.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following methods is used to separate salt from seawater?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Evaporation is used to remove water and obtain salt from seawater.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which separation technique is used to separate two immiscible liquids?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Separating funnel",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Sublimation",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "A separating funnel is used to separate immiscible liquids like oil and water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a homogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Oil and water",
+              "image": null
+            },
+            {
+              "text": "Milk",
+              "image": null
+            },
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Sand and iron",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Salt solution has uniform composition throughout and is homogeneous.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What type of mixture is milk?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Solution",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Element",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Milk is a colloid because fat globules are dispersed in water uniformly but not dissolved.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which separation technique is used to purify drinking water in homes?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Decantation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Centrifugation",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Filtration removes suspended impurities from water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is NOT a pure substance?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Iron",
+              "image": null
+            },
+            {
+              "text": "Hydrogen",
+              "image": null
+            },
+            {
+              "text": "Soil",
+              "image": null
+            },
+            {
+              "text": "Sulphur",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Soil is a mixture of minerals, organic matter, air, and water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "The process of separating cream from milk is based on?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Centrifugation",
+              "image": null
+            },
+            {
+              "text": "Sedimentation",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Centrifugation uses rapid spinning to separate cream (lighter) from milk.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is an alloy?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Steel",
+              "image": null
+            },
+            {
+              "text": "Oxygen",
+              "image": null
+            },
+            {
+              "text": "Sulphur",
+              "image": null
+            },
+            {
+              "text": "Carbon dioxide",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Steel is an alloy of iron and carbon.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which technique is used to separate colors in ink?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Decantation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Chromatography separates different pigments present in ink.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Sea water is a mixture of?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Salt and water",
+              "image": null
+            },
+            {
+              "text": "Air and salt",
+              "image": null
+            },
+            {
+              "text": "Salt, water, and gases",
+              "image": null
+            },
+            {
+              "text": "Only water",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Sea water contains dissolved salts and gases along with water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which method is used to separate camphor from salt?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Sublimation",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Sedimentation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Camphor changes directly from solid to gas on heating, leaving salt behind.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which mixture shows Tyndall effect?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "True solution",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Compound",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Colloids scatter light and show Tyndall effect.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What type of mixture is smoke?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Solution",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Compound",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Smoke is a colloid of solid particles dispersed in air.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which one is an example of heterogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Vinegar",
+              "image": null
+            },
+            {
+              "text": "Sand and iron",
+              "image": null
+            },
+            {
+              "text": "Salt solution",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Sand and iron can be seen separately, hence heterogeneous.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What is the composition of brass?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Copper and zinc",
+              "image": null
+            },
+            {
+              "text": "Copper and tin",
+              "image": null
+            },
+            {
+              "text": "Iron and carbon",
+              "image": null
+            },
+            {
+              "text": "Aluminium and copper",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Brass is an alloy of copper and zinc.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is NOT a method of purification?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Magnetization",
+              "image": null
+            },
+            {
+              "text": "Condensation",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Magnetization is not a separation method, but magnetic separation is used for magnetic substances.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What type of mixture is alloy?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Homogeneous",
+              "image": null
+            },
+            {
+              "text": "Heterogeneous",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Alloys are homogeneous mixtures of metals.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a solution?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Sugar in water",
+              "image": null
+            },
+            {
+              "text": "Oil and water",
+              "image": null
+            },
+            {
+              "text": "Smoke",
+              "image": null
+            },
+            {
+              "text": "Soil",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Sugar dissolves completely in water forming a solution.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What is the boiling point of pure water at sea level?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "90°C",
+              "image": null
+            },
+            {
+              "text": "95°C",
+              "image": null
+            },
+            {
+              "text": "100°C",
+              "image": null
+            },
+            {
+              "text": "110°C",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Pure water boils at 100°C under standard atmospheric pressure.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is an impure substance?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Copper",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Gold",
+              "image": null
+            },
+            {
+              "text": "Sulphur",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Air is a mixture of gases, hence impure.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which technique is used to separate petrol from petroleum?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Fractional distillation separates different components of petroleum.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which property does a pure substance always have?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Variable boiling point",
+              "image": null
+            },
+            {
+              "text": "Fixed composition",
+              "image": null
+            },
+            {
+              "text": "Different colors",
+              "image": null
+            },
+            {
+              "text": "Contains impurities",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Pure substances have a fixed composition and definite properties.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which method is used to separate sand from water?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Sand can be separated from water by filtration since it is insoluble.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which one is an element among the following?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Carbon dioxide",
+              "image": null
+            },
+            {
+              "text": "Salt",
+              "image": null
+            },
+            {
+              "text": "Hydrogen",
+              "image": null
+            },
+            {
+              "text": "Sugar",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Hydrogen consists of only one type of atom and is an element.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which is an example of suspension?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Milk",
+              "image": null
+            },
+            {
+              "text": "Chalk in water",
+              "image": null
+            },
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Brass",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Chalk in water forms a suspension as particles settle on standing.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following mixtures can be separated by magnetic separation?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Sand and salt",
+              "image": null
+            },
+            {
+              "text": "Iron and sulphur",
+              "image": null
+            },
+            {
+              "text": "Oil and water",
+              "image": null
+            },
+            {
+              "text": "Salt solution",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Magnetic separation works when one component is magnetic, like iron.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which method is used to obtain pure water from sea water?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Centrifugation",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Distillation purifies water by vaporizing and condensing it.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What kind of mixture is fog?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Solution",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Compound",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Fog is a colloid of water droplets dispersed in air.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which one of the following is a colloid?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Sugar solution",
+              "image": null
+            },
+            {
+              "text": "Blood",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Blood is a colloid as cells are dispersed in plasma.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these methods can separate salt from its solution?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Magnet",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Salt can be obtained by evaporating water from the solution.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which mixture can be separated by decantation?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Oil and water",
+              "image": null
+            },
+            {
+              "text": "Salt and water",
+              "image": null
+            },
+            {
+              "text": "Sugar solution",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Decantation separates immiscible liquids like oil and water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is not a mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Sugar",
+              "image": null
+            },
+            {
+              "text": "Milk",
+              "image": null
+            },
+            {
+              "text": "Soil",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Sugar is a compound of carbon, hydrogen, and oxygen, not a mixture.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which technique is used in separating dyes in black ink?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Sedimentation",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Chromatography separates pigments of different solubilities in a solvent.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which is the dispersed phase in smoke?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Gas in gas",
+              "image": null
+            },
+            {
+              "text": "Solid in gas",
+              "image": null
+            },
+            {
+              "text": "Liquid in gas",
+              "image": null
+            },
+            {
+              "text": "Gas in liquid",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Smoke is solid particles dispersed in air (gas).",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which method separates kerosene from water?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Separating funnel",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Kerosene and water are immiscible and can be separated with a separating funnel.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which is an example of homogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Soil",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Sand and iron",
+              "image": null
+            },
+            {
+              "text": "Chalk in water",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Air is a homogeneous mixture of gases uniformly distributed.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What is the dispersed phase in butter?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Gas in liquid",
+              "image": null
+            },
+            {
+              "text": "Solid in liquid",
+              "image": null
+            },
+            {
+              "text": "Liquid in solid",
+              "image": null
+            },
+            {
+              "text": "Solid in solid",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Butter is a colloid with liquid fat droplets dispersed in solid.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which is an example of compound?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Salt",
+              "image": null
+            },
+            {
+              "text": "Milk",
+              "image": null
+            },
+            {
+              "text": "Soil",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Salt (NaCl) is a compound formed by sodium and chlorine chemically combined.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which separation method is used in refining petroleum?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Fractional distillation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Centrifugation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Fractional distillation separates different components of petroleum based on boiling points.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following does not scatter light?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Solution",
+              "image": null
+            },
+            {
+              "text": "Fog",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "True solutions do not scatter light; they are transparent.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What is the chemical formula of common salt?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Na2CO3",
+              "image": null
+            },
+            {
+              "text": "NaCl",
+              "image": null
+            },
+            {
+              "text": "KCl",
+              "image": null
+            },
+            {
+              "text": "CaCl2",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Common salt is sodium chloride with formula NaCl.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What is meant by 'pure substance' in science?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "A substance made of only one kind of particle",
+              "image": null
+            },
+            {
+              "text": "A substance with different types of particles",
+              "image": null
+            },
+            {
+              "text": "A substance mixed with impurities",
+              "image": null
+            },
+            {
+              "text": "Any substance found in nature",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "A pure substance is composed of only one kind of atom or molecule and has fixed properties.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is a pure substance?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Milk",
+              "image": null
+            },
+            {
+              "text": "Distilled water",
+              "image": null
+            },
+            {
+              "text": "Lemonade",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Distilled water contains only water molecules without impurities, making it a pure substance.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is a mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Gold",
+              "image": null
+            },
+            {
+              "text": "Oxygen gas",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Sodium chloride",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Air is a mixture of nitrogen, oxygen, carbon dioxide, water vapor, and other gases.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Brass is an example of which type of mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Homogeneous mixture",
+              "image": null
+            },
+            {
+              "text": "Heterogeneous mixture",
+              "image": null
+            },
+            {
+              "text": "Compound",
+              "image": null
+            },
+            {
+              "text": "Element",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Brass is a solid solution of copper and zinc, uniform throughout.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which one of the following is NOT a homogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Sand and salt mixture",
+              "image": null
+            },
+            {
+              "text": "Brass",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Sand and salt mixture is not uniform throughout, hence heterogeneous.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What are the two types of pure substances?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Elements and compounds",
+              "image": null
+            },
+            {
+              "text": "Mixtures and alloys",
+              "image": null
+            },
+            {
+              "text": "Solutions and suspensions",
+              "image": null
+            },
+            {
+              "text": "Colloids and gases",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Pure substances are classified into elements and compounds based on their composition.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is an element?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Water",
+              "image": null
+            },
+            {
+              "text": "Oxygen",
+              "image": null
+            },
+            {
+              "text": "Salt",
+              "image": null
+            },
+            {
+              "text": "Sugar",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Oxygen is made up of only one type of atom, hence it is an element.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a compound?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Iron",
+              "image": null
+            },
+            {
+              "text": "Oxygen",
+              "image": null
+            },
+            {
+              "text": "Carbon dioxide",
+              "image": null
+            },
+            {
+              "text": "Gold",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Carbon dioxide consists of carbon and oxygen chemically combined in a fixed ratio.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a heterogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Smoke",
+              "image": null
+            },
+            {
+              "text": "Brass",
+              "image": null
+            },
+            {
+              "text": "Vinegar",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Smoke consists of solid particles dispersed in air, making it a heterogeneous mixture.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following methods is used to separate salt from seawater?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Evaporation is used to remove water and obtain salt from seawater.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which separation technique is used to separate two immiscible liquids?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Separating funnel",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Sublimation",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "A separating funnel is used to separate immiscible liquids like oil and water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a homogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Oil and water",
+              "image": null
+            },
+            {
+              "text": "Milk",
+              "image": null
+            },
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Sand and iron",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Salt solution has uniform composition throughout and is homogeneous.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What type of mixture is milk?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Solution",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Element",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Milk is a colloid because fat globules are dispersed in water uniformly but not dissolved.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which separation technique is used to purify drinking water in homes?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Decantation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Centrifugation",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Filtration removes suspended impurities from water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is NOT a pure substance?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Iron",
+              "image": null
+            },
+            {
+              "text": "Hydrogen",
+              "image": null
+            },
+            {
+              "text": "Soil",
+              "image": null
+            },
+            {
+              "text": "Sulphur",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Soil is a mixture of minerals, organic matter, air, and water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "The process of separating cream from milk is based on?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Centrifugation",
+              "image": null
+            },
+            {
+              "text": "Sedimentation",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Centrifugation uses rapid spinning to separate cream (lighter) from milk.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is an alloy?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Steel",
+              "image": null
+            },
+            {
+              "text": "Oxygen",
+              "image": null
+            },
+            {
+              "text": "Sulphur",
+              "image": null
+            },
+            {
+              "text": "Carbon dioxide",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Steel is an alloy of iron and carbon.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which technique is used to separate colors in ink?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Decantation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Chromatography separates different pigments present in ink.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Sea water is a mixture of?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Salt and water",
+              "image": null
+            },
+            {
+              "text": "Air and salt",
+              "image": null
+            },
+            {
+              "text": "Salt, water, and gases",
+              "image": null
+            },
+            {
+              "text": "Only water",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Sea water contains dissolved salts and gases along with water.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which method is used to separate camphor from salt?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Sublimation",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Sedimentation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Camphor changes directly from solid to gas on heating, leaving salt behind.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which mixture shows Tyndall effect?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "True solution",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Compound",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Colloids scatter light and show Tyndall effect.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What type of mixture is smoke?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Solution",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Compound",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Smoke is a colloid of solid particles dispersed in air.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which one is an example of heterogeneous mixture?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Vinegar",
+              "image": null
+            },
+            {
+              "text": "Sand and iron",
+              "image": null
+            },
+            {
+              "text": "Salt solution",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Sand and iron can be seen separately, hence heterogeneous.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What is the composition of brass?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Copper and zinc",
+              "image": null
+            },
+            {
+              "text": "Copper and tin",
+              "image": null
+            },
+            {
+              "text": "Iron and carbon",
+              "image": null
+            },
+            {
+              "text": "Aluminium and copper",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Brass is an alloy of copper and zinc.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is NOT a method of purification?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Magnetization",
+              "image": null
+            },
+            {
+              "text": "Condensation",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Magnetization is not a separation method, but magnetic separation is used for magnetic substances.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What type of mixture is alloy?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Homogeneous",
+              "image": null
+            },
+            {
+              "text": "Heterogeneous",
+              "image": null
+            },
+            {
+              "text": "Suspension",
+              "image": null
+            },
+            {
+              "text": "Colloid",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Alloys are homogeneous mixtures of metals.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of these is a solution?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Sugar in water",
+              "image": null
+            },
+            {
+              "text": "Oil and water",
+              "image": null
+            },
+            {
+              "text": "Smoke",
+              "image": null
+            },
+            {
+              "text": "Soil",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Sugar dissolves completely in water forming a solution.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "What is the boiling point of pure water at sea level?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "90°C",
+              "image": null
+            },
+            {
+              "text": "95°C",
+              "image": null
+            },
+            {
+              "text": "100°C",
+              "image": null
+            },
+            {
+              "text": "110°C",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Pure water boils at 100°C under standard atmospheric pressure.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which of the following is an impure substance?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Copper",
+              "image": null
+            },
+            {
+              "text": "Air",
+              "image": null
+            },
+            {
+              "text": "Gold",
+              "image": null
+            },
+            {
+              "text": "Sulphur",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Air is a mixture of gases, hence impure.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which technique is used to separate petrol from petroleum?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Fractional distillation separates different components of petroleum.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which property does a pure substance always have?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Variable boiling point",
+              "image": null
+            },
+            {
+              "text": "Fixed composition",
+              "image": null
+            },
+            {
+              "text": "Different colors",
+              "image": null
+            },
+            {
+              "text": "Contains impurities",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Pure substances have a fixed composition and definite properties.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which method is used to separate sand from water?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Filtration",
+              "image": null
+            },
+            {
+              "text": "Evaporation",
+              "image": null
+            },
+            {
+              "text": "Distillation",
+              "image": null
+            },
+            {
+              "text": "Chromatography",
+              "image": null
+            }
+          ],
+          "correct": 0,
+          "explanationText": "Sand can be separated from water by filtration since it is insoluble.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which one is an element among the following?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Carbon dioxide",
+              "image": null
+            },
+            {
+              "text": "Salt",
+              "image": null
+            },
+            {
+              "text": "Hydrogen",
+              "image": null
+            },
+            {
+              "text": "Sugar",
+              "image": null
+            }
+          ],
+          "correct": 2,
+          "explanationText": "Hydrogen consists of only one type of atom and is an element.",
+          "explanationImage": ""
+        },
+        {
+          "questionText": "Which is an example of suspension?",
+          "questionImage": null,
+          "options": [
+            {
+              "text": "Milk",
+              "image": null
+            },
+            {
+              "text": "Chalk in water",
+              "image": null
+            },
+            {
+              "text": "Salt solution",
+              "image": null
+            },
+            {
+              "text": "Brass",
+              "image": null
+            }
+          ],
+          "correct": 1,
+          "explanationText": "Chalk in water forms a suspension as particles settle on standing.",
+          "explanationImage": ""
         }
       ],
       "MOTION": [
